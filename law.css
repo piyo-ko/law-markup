@@ -1,0 +1,175 @@
+* {
+  display: block;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-top: 0.5em;
+  --heading-color: hsl(220, 40%, 45%);
+  line-height: calc(1.6em + 6pt);
+}
+paren, defined, and-or, chunk {
+  display: inline;
+  padding-left: 0;
+  padding-right: 0;
+}
+memo {
+  background: hsl(120, 25%, 78%);
+}
+
+
+Law {
+  background: hsl(220, 5%, 82%);
+  color: hsl(220, 10%, 25%);
+}
+LawTitle {
+  font-size: x-large;
+  text-align: center;
+  color: var(--heading-color);
+}
+TOC {
+  border: solid 1px var(--heading-color);
+  border-radius: 1em;
+  background: hsl(220, 15%, 78%);
+}
+Chapter {
+  margin-top: 2em;
+  border-top: solid 2px var(--heading-color);
+}
+Section {
+  margin-top: 2em;
+  border-top: dashed 2px var(--heading-color);
+}
+ArticleCaption {
+  color: var(--heading-color);
+}
+ChapterTitle, SectionTitle, ArticleTitle, ParagraphNum, ItemTitle, Subitem1Title {
+  font-weight: bold;
+  color: var(--heading-color);
+}
+SupplProvision {
+  background: hsl(220, 10%, 55%);
+}
+
+
+Sentence paren {
+  background: var(--paren-bg-color);
+  border:none;
+}
+Sentence > paren,
+Sentence > chunk > paren,
+Sentence > chunk > chunk > paren, 
+Sentence > chunk > chunk > chunk > paren {
+  --paren-bg-color: hsl(160, 20%, 75%);
+}
+Sentence > paren > paren,
+Sentence > chunk > paren > paren,
+Sentence > paren > chunk > paren,
+Sentence > chunk > chunk > paren > paren,
+Sentence > chunk > paren > chunk > paren,
+Sentence > paren > chunk > chunk > paren,
+Sentence > chunk > chunk > chunk > paren > paren,
+Sentence > chunk > chunk > paren > chunk > paren,
+Sentence > chunk > paren > chunk > chunk > paren,
+Sentence > paren > chunk > chunk > chunk > paren {
+  --paren-bg-color: hsl(100, 20%, 75%);
+}
+Sentence > paren > paren > paren,
+Sentence > chunk > paren > paren > paren,
+Sentence > paren > chunk > paren > paren,
+Sentence > paren > paren > chunk > paren,
+Sentence > chunk > chunk > paren > paren > paren,
+Sentence > chunk > paren > chunk > paren > paren,
+Sentence > chunk > paren > paren > chunk > paren,
+Sentence > paren > chunk > chunk > paren > paren,
+Sentence > paren > chunk > paren > chunk > paren,
+Sentence > paren > paren > chunk > chunk > paren,
+Sentence > chunk > chunk > chunk > paren > paren > paren,
+Sentence > chunk > chunk > paren > chunk > paren > paren,
+Sentence > chunk > chunk > paren > paren > chunk > paren,
+Sentence > chunk > paren > chunk > chunk > paren > paren,
+Sentence > chunk > paren > chunk > paren > chunk > paren,
+Sentence > chunk > paren > paren > chunk > chunk > paren,
+Sentence > paren > chunk > chunk > chunk > paren > paren,
+Sentence > paren > chunk > chunk > paren > chunk > paren,
+Sentence > paren > chunk > paren > chunk > chunk > paren,
+Sentence > paren > paren > chunk > chunk > chunk > paren {
+  --paren-bg-color: hsl(40, 20%, 75%);
+}
+
+defined {
+  border: 1px solid hsl(300, 50%, 50%);
+  border-radius: 0.3em;
+}
+
+and-or {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1px;
+  text-decoration-color: hsl(220, 60%, 65%);
+}
+
+chunk {
+  border-left: 3px solid var(--chunk-line-color);
+  border-right: 3px solid var(--chunk-line-color);
+  margin-left: 2pt;
+  padding-left: 2pt;
+  margin-right: 2pt;
+  padding-right: 2pt;
+}
+Sentence > chunk, 
+Sentence > paren > chunk, 
+Sentence > paren > paren > chunk,
+Sentence > paren > paren > paren > chunk {
+  --chunk-line-color: hsl(250, 40%, 45%);
+  padding-top: 4pt;
+  margin-top: 4pt;
+  border-top: 1px solid var(--chunk-line-color);
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: none;
+}
+Sentence > chunk > chunk,
+Sentence > chunk > paren > chunk,
+Sentence > paren > chunk > chunk,
+Sentence > paren > paren > chunk > chunk,
+Sentence > paren > chunk > paren > chunk,
+Sentence > chunk > paren > paren > chunk,
+Sentence > paren > paren > paren > chunk > chunk,
+Sentence > paren > paren > chunk > paren > chunk,
+Sentence > paren > chunk > paren > paren > chunk,
+Sentence > chunk > paren > paren > paren > chunk {
+  --chunk-line-color: hsl(160, 40%, 45%);
+  padding-top: 0;
+  margin-top: 0;
+  border-top: none;
+  padding-bottom: 4pt;
+  margin-bottom: 4pt;
+  border-bottom: 1px solid var(--chunk-line-color);
+}
+Sentence > chunk > chunk > chunk,
+Sentence > paren > chunk > chunk > chunk,
+Sentence > chunk > paren > chunk > chunk,
+Sentence > chunk > chunk > paren > chunk,
+Sentence > paren > paren > chunk > chunk > chunk,
+Sentence > paren > chunk > paren > chunk > chunk,
+Sentence > paren > chunk > chunk > paren > chunk,
+Sentence > chunk > paren > paren > chunk > chunk,
+Sentence > chunk > paren > chunk > paren > chunk,
+Sentence > chunk > chunk > paren > paren > chunk,
+Sentence > paren > paren > paren > chunk > chunk > chunk,
+Sentence > paren > paren > chunk > paren > chunk > chunk,
+Sentence > paren > paren > chunk > chunk > paren > chunk,
+Sentence > paren > chunk > paren > paren > chunk > chunk,
+Sentence > paren > chunk > paren > chunk > paren > chunk,
+Sentence > paren > chunk > chunk > paren > paren > chunk,
+Sentence > chunk > paren > paren > paren > chunk > chunk,
+Sentence > chunk > paren > paren > chunk > paren > chunk,
+Sentence > chunk > paren > chunk > paren > paren > chunk,
+Sentence > chunk > chunk > paren > paren > paren > chunk {
+  --chunk-line-color: hsl(70, 40%, 45%);
+  padding-top: 2pt;
+  margin-top: 2pt;
+  border-top: 1px solid var(--chunk-line-color);
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: none;
+}

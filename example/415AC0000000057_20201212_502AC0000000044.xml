@@ -1,0 +1,2824 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="../law.css" type="text/css" ?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="57" Year="15" PromulgateMonth="06" PromulgateDay="12">
+
+<memo>※ README は https://github.com/piyo-ko/law-markup にあります。</memo>
+
+  <LawNum>平成十五年法律第五十七号</LawNum>
+  <LawBody>
+    <LawTitle Kana="こじんじょうほうのほごにかんするほうりつ" Abbrev="個人情報保護法" AbbrevKana="こ"><defined>個人情報</defined>の保護に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange><paren>（第一条―第三条）</paren></ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　国<and-or>及び</and-or>地方公共団体の責務等</ChapterTitle>
+        <ArticleRange><paren>（第四条―第六条）</paren></ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　<defined>個人情報</defined>の保護に関する施策等</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　<defined>個人情報</defined>の保護に関する基本方針</SectionTitle>
+          <ArticleRange><paren>（第七条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　国の施策</SectionTitle>
+          <ArticleRange><paren>（第八条―第十条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　地方公共団体の施策</SectionTitle>
+          <ArticleRange><paren>（第十一条―第十三条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　国<and-or>及び</and-or>地方公共団体の協力</SectionTitle>
+          <ArticleRange><paren>（第十四条）</paren></ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　<defined>個人情報取扱事業者</defined>の義務等</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　<defined>個人情報取扱事業者</defined>の義務</SectionTitle>
+          <ArticleRange><paren>（第十五条―第三十五条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　<defined>匿名加工情報取扱事業者</defined>等の義務</SectionTitle>
+          <ArticleRange><paren>（第三十六条―第三十九条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <ArticleRange><paren>（第四十条―第四十六条）</paren></ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　民間団体による<defined>個人情報</defined>の保護の推進</SectionTitle>
+          <ArticleRange><paren>（第四十七条―第五十八条）</paren></ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="5">
+        <ChapterTitle>第五章　<defined>個人情報保護委員会</defined></ChapterTitle>
+        <ArticleRange><paren>（第五十九条―第七十四条）</paren></ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange><paren>（第七十五条―第八十一条）</paren></ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange><paren>（第八十二条―第八十八条）</paren></ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption><paren>（目的）</paren></ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、<chunk>高度情報通信社会の進展に伴い<defined>個人情報</defined>の利用が著しく拡大していること</chunk>に鑑み、<chunk><defined>個人情報</defined>の適正な取扱い</chunk>に関し、<chunk>基本理念</chunk><and-or>及び</and-or><chunk>政府による基本方針の作成</chunk>その他の<chunk><defined>個人情報</defined>の保護に関する施策の基本となる事項</chunk>を定め、<chunk>国<and-or>及び</and-or>地方公共団体の責務等</chunk>を明らかにするとともに、<chunk><defined>個人情報</defined>を取り扱う事業者の遵守すべき義務等</chunk>を定めることにより、<chunk><defined>個人情報</defined>の適正かつ効果的な活用</chunk>が<chunk>新たな産業の創出</chunk><and-or>並びに</and-or><chunk>活力ある経済社会<and-or>及び</and-or>豊かな国民生活の実現</chunk>に資するものであることその他の<chunk><defined>個人情報</defined>の有用性</chunk>に配慮しつつ、<chunk>個人の権利利益を保護すること</chunk>を目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption><paren>（定義）</paren></ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>個人情報</defined>」とは、<chunk><chunk>生存する個人に関する情報</chunk>であって、次の各号のいずれかに該当するもの</chunk>をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>当該情報に含まれる<chunk>氏名、生年月日その他の記述等</chunk><paren>（文書、図画<and-or>若しくは</and-or>電磁的記録<paren>（電磁的方式<paren>（電子的方式、磁気的方式その他<chunk>人の知覚によっては認識することができない方式</chunk>をいう。次項第二号において同じ。）</paren>で作られる記録をいう。第十八条第二項において同じ。）</paren>に<chunk>記載され、<and-or>若しくは</and-or>記録され、<and-or>又は</and-or><chunk>音声、動作その他の方法</chunk>を用いて表された</chunk><chunk>一切の事項<paren>（<defined>個人識別符号</defined>を除く。）</paren></chunk>をいう。以下同じ。）</paren></chunk>により<chunk>特定の個人を識別することができる</chunk>もの<paren>（他の情報と容易に照合することができ、それにより<chunk>特定の個人を識別することができることとなる</chunk>ものを含む。）</paren></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>個人識別符号</defined>が含まれるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>個人識別符号</defined>」とは、<chunk><chunk>次の各号のいずれか</chunk>に該当する文字、番号、記号その他の符号</chunk>のうち、政令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>特定の個人の身体の一部の特徴</chunk>を<chunk>電子計算機の用に供するため</chunk>に変換した<chunk>文字、番号、記号その他の符号</chunk>であって、<chunk>当該特定の個人を識別することができる</chunk>もの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>個人に提供される役務の利用</chunk><and-or>若しくは</and-or><chunk>個人に販売される商品の購入</chunk></chunk>に関し<chunk>割り当てられ、<and-or>又は</and-or><chunk>個人に発行されるカードその他の書類</chunk>に記載され、<and-or>若しくは</and-or>電磁的方式により記録された</chunk><chunk>文字、番号、記号その他の符号</chunk>であって、<chunk>その利用者<and-or>若しくは</and-or>購入者<and-or>又は</and-or>発行を受ける者</chunk>ごとに異なるものとなるように<chunk>割り当てられ、<and-or>又は</and-or>記載され、<and-or>若しくは</and-or>記録される</chunk>ことにより、<chunk>特定の利用者<and-or>若しくは</and-or>購入者<and-or>又は</and-or>発行を受ける者</chunk>を識別することができるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>要配慮個人情報</defined>」とは、<chunk><defined>本人</defined>の人種、信条、社会的身分、病歴、犯罪の経歴、<chunk>犯罪により害を被った事実</chunk></chunk>その他<chunk><chunk><defined>本人</defined>に対する不当な差別、偏見その他の不利益</chunk>が生じないようにその取扱いに特に配慮を要するもの</chunk>として政令で定める記述等が含まれる<defined>個人情報</defined>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>個人情報データベース等</defined>」とは、<chunk><defined>個人情報</defined>を含む情報の集合物</chunk>であって、次に掲げるもの<paren>（利用方法からみて個人の権利利益を害するおそれが少ないものとして政令で定めるものを除く。）</paren>をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">特定の<defined>個人情報</defined>を電子計算機を用いて検索することができるように体系的に構成したもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前号に掲げるもののほか、<chunk>特定の<defined>個人情報</defined>を容易に検索することができるように体系的に構成したもの</chunk>として政令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律において「<defined>個人情報取扱事業者</defined>」とは、<defined>個人情報データベース等</defined>を事業の用に供している者をいう。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる者を除く。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">国の機関</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地方公共団体</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">独立行政法人等<paren>（独立行政法人等の保有する<defined>個人情報</defined>の保護に関する法律<paren>（平成十五年法律第五十九号）</paren>第二条第一項に規定する独立行政法人等をいう。以下同じ。）</paren></Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地方独立行政法人<paren>（地方独立行政法人法<paren>（平成十五年法律第百十八号）</paren>第二条第一項に規定する地方独立行政法人をいう。以下同じ。）</paren></Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>個人データ</defined>」とは、<defined>個人情報データベース等</defined>を構成する<defined>個人情報</defined>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="7" OldStyle="false">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>保有個人データ</defined>」とは、<chunk><defined>個人情報取扱事業者</defined>が、<chunk>開示、<chunk>内容の訂正、追加<and-or>又は</and-or>削除</chunk>、利用の停止、消去<and-or>及び</and-or><chunk>第三者への提供の停止</chunk></chunk>を行うことのできる権限を有する<defined>個人データ</defined></chunk>であって、<chunk><chunk>その存否が明らかになることにより公益その他の利益が害されるものとして政令で定めるもの</chunk><and-or>又は</and-or><chunk>一年以内の政令で定める期間以内に消去することとなるもの</chunk>以外のもの</chunk>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="8" OldStyle="false">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において<defined>個人情報</defined>について「<defined>本人</defined>」とは、<defined>個人情報</defined>によって識別される特定の個人をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="9" OldStyle="false">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「<defined>匿名加工情報</defined>」とは、<chunk><chunk>次の各号に掲げる<defined>個人情報</defined>の区分</chunk>に応じて<chunk>当該各号に定める措置</chunk>を講じて<chunk>特定の個人を識別することができない</chunk>ように<chunk><defined>個人情報</defined>を加工</chunk>して得られる<chunk>個人に関する情報</chunk></chunk>であって、<chunk>当該<defined>個人情報</defined>を復元することができないようにしたもの</chunk>をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第一項第一号に該当する<defined>個人情報</defined></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該<defined>個人情報</defined>に含まれる記述等の一部を削除すること<paren>（<chunk><chunk>当該一部の記述等を復元することのできる規則性</chunk>を有しない方法</chunk>により他の記述等に置き換えることを含む。）</paren>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">第一項第二号に該当する<defined>個人情報</defined></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">当該<defined>個人情報</defined>に含まれる<defined>個人識別符号</defined>の全部を削除すること<paren>（<chunk><chunk>当該<defined>個人識別符号</defined>を復元することのできる規則性</chunk>を有しない方法</chunk>により他の記述等に置き換えることを含む。）</paren>。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="10" OldStyle="false">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律において「<defined>匿名加工情報取扱事業者</defined>」とは、<chunk><chunk><defined>匿名加工情報</defined>を含む情報の集合物</chunk>であって、<chunk>特定の<defined>匿名加工情報</defined>を電子計算機を用いて検索することができるように体系的に構成したもの</chunk>その他<chunk>特定の<defined>匿名加工情報</defined>を容易に検索することができるように体系的に構成したものとして政令で定めるもの</chunk></chunk><paren>（第三十六条第一項において「<defined>匿名加工情報データベース等</defined>」という。）</paren>を事業の用に供している者をいう。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第五項各号に掲げる者を除く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption><paren>（基本理念）</paren></ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>個人情報</defined>は、<chunk>個人の人格尊重の理念の下に慎重に取り扱われるべきもの</chunk>であることにかんがみ、その適正な取扱いが図られなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　国<and-or>及び</and-or>地方公共団体の責務等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption><paren>（国の責務）</paren></ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、この法律の趣旨にのっとり、<chunk><defined>個人情報</defined>の適正な取扱いを確保するために必要な施策</chunk>を総合的に策定し、<and-or>及び</and-or>これを実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleCaption><paren>（地方公共団体の責務）</paren></ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、この法律の趣旨にのっとり、<chunk>その地方公共団体の区域の特性</chunk>に応じて、<chunk><defined>個人情報</defined>の適正な取扱いを確保するために必要な施策</chunk>を策定し、<and-or>及び</and-or>これを実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption><paren>（法制上の措置等）</paren></ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、<chunk><defined>個人情報</defined>の性質<and-or>及び</and-or>利用方法</chunk>に鑑み、<chunk><chunk>個人の権利利益の一層の保護</chunk>を図るため特に<chunk>その適正な取扱いの厳格な実施</chunk>を確保する必要がある<defined>個人情報</defined></chunk>について、<chunk>保護のための格別の措置</chunk>が講じられるよう<chunk>必要な法制上の措置その他の措置</chunk>を講ずるとともに、<chunk>国際機関その他の国際的な枠組みへの協力</chunk>を通じて、<chunk>各国政府と共同して<chunk>国際的に整合のとれた<defined>個人情報</defined>に係る制度</chunk>を構築するために必要な措置</chunk>を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　<defined>個人情報</defined>の保護に関する施策等</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　<defined>個人情報</defined>の保護に関する基本方針</SectionTitle>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">政府は、<chunk><defined>個人情報</defined>の保護に関する施策</chunk>の<chunk>総合的かつ一体的な推進</chunk>を図るため、<defined>個人情報</defined>の保護に関する基本方針<paren>（以下「<defined>基本方針</defined>」という。）</paren>を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>基本方針</defined>は、次に掲げる事項について定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><defined>個人情報</defined>の保護に関する施策の推進に関する基本的な方向</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">国が講ずべき<defined>個人情報</defined>の保護のための措置に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">地方公共団体が講ずべき<defined>個人情報</defined>の保護のための措置に関する基本的な事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">独立行政法人等が講ずべき<defined>個人情報</defined>の保護のための措置に関する基本的な事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">地方独立行政法人が講ずべき<defined>個人情報</defined>の保護のための措置に関する基本的な事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者</defined><and-or>及び</and-or><defined>匿名加工情報取扱事業者</defined><and-or>並びに</and-or>第五十条第一項に規定する<defined>認定個人情報保護団体</defined></chunk>が講ずべき<chunk><defined>個人情報</defined>の保護のための措置</chunk>に関する基本的な事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><defined>個人情報</defined>の取扱いに関する苦情の円滑な処理に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他<defined>個人情報</defined>の保護に関する施策の推進に関する重要事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">内閣総理大臣は、<defined>個人情報保護委員会</defined>が作成した<defined>基本方針</defined>の案について閣議の決定を求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">内閣総理大臣は、<chunk>前項の規定による閣議の決定</chunk>があったときは、遅滞なく、<defined>基本方針</defined>を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定は、<defined>基本方針</defined>の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　国の施策</SectionTitle>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption><paren>（地方公共団体等への支援）</paren></ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、<chunk>地方公共団体が策定し、<and-or>又は</and-or>実施する<chunk><defined>個人情報</defined>の保護に関する施策</chunk></chunk><and-or>及び</and-or><chunk><chunk>国民<and-or>又は</and-or>事業者等</chunk>が<chunk><defined>個人情報</defined>の適正な取扱いの確保</chunk>に関して行う活動</chunk>を支援するため、<chunk>情報の提供</chunk>、<chunk><chunk>事業者等が講ずべき措置</chunk>の<chunk>適切かつ有効な実施</chunk>を図るための指針の策定</chunk>その他の<chunk>必要な措置</chunk>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption><paren>（苦情処理のための措置）</paren></ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、<chunk><defined>個人情報</defined>の取扱い</chunk>に関し<chunk>事業者と<defined>本人</defined>との間に生じた苦情</chunk>の<chunk>適切かつ迅速な処理</chunk>を図るために必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption><paren>（個人情報の適正な取扱いを確保するための措置）</paren></ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地方公共団体との適切な役割分担を通じ、<chunk><chunk>次章に規定する<defined>個人情報取扱事業者</defined></chunk>による<chunk><defined>個人情報</defined>の適正な取扱い</chunk>を確保するために必要な措置</chunk>を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　地方公共団体の施策</SectionTitle>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption><paren>（地方公共団体等が保有する個人情報の保護）</paren></ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地方公共団体は、<chunk>その保有する<defined>個人情報</defined>の性質</chunk>、<chunk>当該<defined>個人情報</defined>を保有する目的</chunk>等を勘案し、<chunk>その保有する<defined>個人情報</defined>の適正な取扱い</chunk>が確保されるよう必要な措置を講ずることに努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地方公共団体は、<chunk>その設立に係る地方独立行政法人</chunk>について、<chunk>その性格<and-or>及び</and-or>業務内容</chunk>に応じ、<chunk>その保有する<defined>個人情報</defined>の適正な取扱い</chunk>が確保されるよう必要な措置を講ずることに努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption><paren>（区域内の事業者等への支援）</paren></ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地方公共団体は、<chunk><defined>個人情報</defined>の適正な取扱い</chunk>を確保するため、<chunk><chunk>その区域内の事業者<and-or>及び</and-or>住民</chunk>に対する支援に必要な措置</chunk>を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption><paren>（苦情の処理のあっせん等）</paren></ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地方公共団体は、<chunk><defined>個人情報</defined>の取扱い</chunk>に関し<chunk>事業者と<defined>本人</defined>との間に生じた苦情</chunk>が適切かつ迅速に処理されるようにするため、<chunk>苦情の処理のあっせんその他必要な措置</chunk>を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　国<and-or>及び</and-or>地方公共団体の協力</SectionTitle>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国<and-or>及び</and-or>地方公共団体は、<chunk><defined>個人情報</defined>の保護に関する施策</chunk>を講ずるにつき、相協力するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　<defined>個人情報取扱事業者</defined>の義務等</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　<defined>個人情報取扱事業者</defined>の義務</SectionTitle>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption><paren>（<defined>利用目的</defined>の特定）</paren></ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>個人情報</defined>を取り扱うに当たっては、その利用の目的<paren>（以下「<defined>利用目的</defined>」という。）</paren>をできる限り特定しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>利用目的</defined>を変更する場合には、<chunk><chunk>変更前の<defined>利用目的</defined>と関連性を有する</chunk>と合理的に認められる範囲</chunk>を超えて行ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption><paren>（<defined>利用目的</defined>による制限）</paren></ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、あらかじめ<defined>本人</defined>の同意を得ないで、<chunk><chunk>前条の規定により特定された<defined>利用目的</defined></chunk>の達成に必要な範囲</chunk>を超えて、<defined>個人情報</defined>を取り扱ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>合併その他の事由</chunk>により<chunk>他の<defined>個人情報取扱事業者</defined>から事業を承継すること</chunk>に伴って<defined>個人情報</defined>を取得した場合</chunk>は、あらかじめ<defined>本人</defined>の同意を得ないで、<chunk><chunk>承継前における当該<defined>個人情報</defined>の<defined>利用目的</defined></chunk>の達成に必要な範囲</chunk>を超えて、当該<defined>個人情報</defined>を取り扱ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定は、次に掲げる場合については、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法令に基づく場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>人の<chunk>生命、身体<and-or>又は</and-or>財産</chunk>の保護のために必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk>公衆衛生の向上<and-or>又は</and-or>児童の健全な育成の推進</chunk>のために特に必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk><chunk>国の機関<and-or>若しくは</and-or>地方公共団体</chunk><and-or>又は</and-or>その委託を受けた者</chunk>が<chunk>法令の定める事務</chunk>を遂行することに対して協力する必要がある場合</chunk>であって、<chunk><defined>本人</defined>の同意を得ること</chunk>により当該事務の遂行に支障を及ぼすおそれがあるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption><paren>（適正な取得）</paren></ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>偽りその他不正の手段</chunk>により<defined>個人情報</defined>を取得してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、次に掲げる場合を除くほか、あらかじめ<defined>本人</defined>の同意を得ないで、<defined>要配慮個人情報</defined>を取得してはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法令に基づく場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>人の<chunk>生命、身体<and-or>又は</and-or>財産</chunk>の保護のために必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>公衆衛生の向上<and-or>又は</and-or>児童の健全な育成の推進のために特に必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk><chunk>国の機関<and-or>若しくは</and-or>地方公共団体</chunk><and-or>又は</and-or>その委託を受けた者</chunk>が<chunk>法令の定める事務</chunk>を遂行することに対して協力する必要がある場合</chunk>であって、<chunk><defined>本人</defined>の同意を得ること</chunk>により当該事務の遂行に支障を及ぼすおそれがあるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該<defined>要配慮個人情報</defined>が、<chunk><defined>本人</defined>、国の機関、地方公共団体、<chunk>第七十六条第一項各号に掲げる者</chunk>その他<chunk><defined>個人情報保護委員会規則</defined>で定める者</chunk></chunk>により公開されている場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">その他<chunk>前各号に掲げる場合に準ずるもの</chunk>として政令で定める場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption><paren>（取得に際しての<defined>利用目的</defined>の通知等）</paren></ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>個人情報</defined>を取得した場合は、<chunk>あらかじめその<defined>利用目的</defined>を公表している場合</chunk>を除き、速やかに、その<defined>利用目的</defined>を、<chunk><defined>本人</defined>に通知し、<and-or>又は</and-or>公表し</chunk>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、前項の規定にかかわらず、<chunk><chunk><defined>本人</defined>との間で契約を締結すること</chunk>に伴って<chunk>契約書その他の書面<paren>（電磁的記録を含む。以下この項において同じ。）</paren>に記載された当該<defined>本人</defined>の<defined>個人情報</defined></chunk>を取得する場合</chunk>その他<chunk><defined>本人</defined>から直接書面に記載された当該<defined>本人</defined>の<defined>個人情報</defined>を取得する場合</chunk>は、あらかじめ、<defined>本人</defined>に対し、その<defined>利用目的</defined>を明示しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk><chunk>人の<chunk>生命、身体<and-or>又は</and-or>財産</chunk>の保護</chunk>のために緊急に必要がある場合</chunk>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>利用目的</defined>を変更した場合は、変更された<defined>利用目的</defined>について、<chunk><defined>本人</defined>に通知し、<and-or>又は</and-or>公表し</chunk>なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前三項の規定は、次に掲げる場合については、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>利用目的</defined>を<defined>本人</defined>に通知し、<and-or>又は</and-or>公表すること</chunk>により<chunk><defined>本人</defined><and-or>又は</and-or>第三者</chunk>の<chunk>生命、身体、財産その他の権利利益</chunk>を害するおそれがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>利用目的</defined>を<defined>本人</defined>に通知し、<and-or>又は</and-or>公表すること</chunk>により<chunk>当該<defined>個人情報取扱事業者</defined>の権利<and-or>又は</and-or>正当な利益</chunk>を害するおそれがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk>国の機関<and-or>又は</and-or>地方公共団体</chunk>が<chunk>法令の定める事務</chunk>を遂行することに対して協力する必要がある場合</chunk>であって、<chunk><defined>利用目的</defined>を<defined>本人</defined>に通知し、<and-or>又は</and-or>公表すること</chunk>により当該事務の遂行に支障を及ぼすおそれがあるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">取得の状況からみて<defined>利用目的</defined>が明らかであると認められる場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption><paren>（データ内容の正確性の確保等）</paren></ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>利用目的</defined>の達成に必要な範囲内</chunk>において、<chunk><defined>個人データ</defined>を正確かつ最新の内容に保つ</chunk>とともに、<chunk>利用する必要がなくなったとき</chunk>は、<chunk>当該<defined>個人データ</defined>を遅滞なく消去する</chunk>よう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption><paren>（安全管理措置）</paren></ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>その取り扱う<defined>個人データ</defined></chunk>の<chunk><chunk>漏えい、滅失<and-or>又は</and-or>き損</chunk>の防止</chunk>その他の<chunk><chunk><defined>個人データ</defined>の安全管理</chunk>のために必要かつ適切な措置</chunk>を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption><paren>（従業者の監督）</paren></ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>その従業者に<defined>個人データ</defined>を取り扱わせる</chunk>に当たっては、<chunk>当該<defined>個人データ</defined>の安全管理</chunk>が図られるよう、<chunk>当該従業者に対する必要かつ適切な監督</chunk>を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption><paren>（委託先の監督）</paren></ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>個人データ</defined>の取扱いの全部<and-or>又は</and-or>一部を委託する場合</chunk>は、<chunk>その取扱いを委託された<defined>個人データ</defined>の安全管理</chunk>が図られるよう、<chunk>委託を受けた者に対する必要かつ適切な監督</chunk>を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption><paren>（第三者提供の制限）</paren></ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、次に掲げる場合を除くほか、あらかじめ<defined>本人</defined>の同意を得ないで、<defined>個人データ</defined>を第三者に提供してはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">法令に基づく場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk>人の<chunk>生命、身体<and-or>又は</and-or>財産</chunk>の保護</chunk>のために必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>公衆衛生の向上<and-or>又は</and-or>児童の健全な育成の推進のために特に必要がある場合</chunk>であって、<defined>本人</defined>の同意を得ることが困難であるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk><chunk>国の機関<and-or>若しくは</and-or>地方公共団体</chunk><and-or>又は</and-or>その委託を受けた者</chunk>が<chunk>法令の定める事務</chunk>を遂行することに対して協力する必要がある場合</chunk>であって、<chunk><defined>本人</defined>の同意を得ること</chunk>により当該事務の遂行に支障を及ぼすおそれがあるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>第三者に提供される<defined>個人データ</defined><paren>（<defined>要配慮個人情報</defined>を除く。以下この項において同じ。）</paren></chunk>について、<chunk><defined>本人</defined>の求めに応じて<chunk>当該<defined>本人</defined>が識別される<defined>個人データ</defined></chunk>の第三者への提供を停止すること</chunk>としている場合</chunk>であって、<chunk><chunk>次に掲げる事項</chunk>について、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、あらかじめ、<chunk><chunk><defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置く</chunk>とともに、<defined>個人情報保護委員会</defined>に届け出た</chunk>とき</chunk>は、前項の規定にかかわらず、<chunk>当該<defined>個人データ</defined>を第三者に提供する</chunk>ことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第三者への提供を<defined>利用目的</defined>とすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第三者に提供される<defined>個人データ</defined>の項目</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第三者への提供の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><defined>本人</defined>の求めに応じて<chunk>当該<defined>本人</defined>が識別される<defined>個人データ</defined></chunk>の第三者への提供を停止すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><defined>本人</defined>の求めを受け付ける方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前項第二号、第三号<and-or>又は</and-or>第五号に掲げる事項</chunk>を変更する場合は、変更する内容について、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、あらかじめ、<chunk><defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置く</chunk>とともに、<defined>個人情報保護委員会</defined>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><defined>個人情報保護委員会</defined>は、第二項の規定による届出があったときは、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、<chunk>当該届出に係る事項</chunk>を公表しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">前項の規定による届出があったときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">次に掲げる場合において、<chunk>当該<defined>個人データ</defined>の提供を受ける者</chunk>は、前各項の規定の適用については、第三者に該当しないものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者</defined>が<chunk><defined>利用目的</defined>の達成に必要な範囲内</chunk>において<chunk><defined>個人データ</defined>の取扱いの全部<and-or>又は</and-or>一部</chunk>を委託すること</chunk>に伴って当該<defined>個人データ</defined>が提供される場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk>合併その他の事由</chunk>による事業の承継</chunk>に伴って<defined>個人データ</defined>が提供される場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk>特定の者との間で共同して利用される<defined>個人データ</defined></chunk>が当該特定の者に提供される場合</chunk>であって、<chunk>その旨</chunk><and-or>並びに</and-or><chunk><chunk>共同して利用される<defined>個人データ</defined>の項目</chunk>、<chunk>共同して利用する者の範囲</chunk>、<chunk>利用する者の<defined>利用目的</defined></chunk><and-or>及び</and-or><chunk><chunk>当該<defined>個人データ</defined>の管理</chunk>について責任を有する者の<chunk>氏名<and-or>又は</and-or>名称</chunk></chunk></chunk>について、あらかじめ、<chunk><defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置いている</chunk>とき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前項第三号に規定する<chunk>利用する者の<defined>利用目的</defined></chunk><and-or>又は</and-or><chunk><chunk><defined>個人データ</defined>の管理</chunk>について責任を有する者の<chunk>氏名<and-or>若しくは</and-or>名称</chunk></chunk></chunk>を変更する場合は、<chunk>変更する内容</chunk>について、あらかじめ、<chunk><defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置かなければならない</chunk>。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption><paren>（外国にある第三者への提供の制限）</paren></ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、外国<paren>（本邦の域外にある国<and-or>又は</and-or>地域をいう。以下同じ。）</paren><paren>（<chunk><chunk>個人の権利利益を保護する上で<chunk>我が国と同等の水準</chunk>にあると認められる<chunk><defined>個人情報</defined>の保護に関する制度</chunk>を有している外国</chunk>として<defined>個人情報保護委員会規則</defined>で定めるもの</chunk>を除く。以下この条において同じ。）</paren>にある第三者<paren>（<chunk><chunk><defined>個人データ</defined>の取扱いについて<chunk>この節の規定</chunk>により<defined>個人情報取扱事業者</defined>が講ずべきこととされている措置</chunk>に相当する措置</chunk>を継続的に講ずるために必要なものとして<chunk><chunk><defined>個人情報保護委員会規則</defined>で定める基準</chunk>に適合する体制</chunk>を整備している者を除く。以下この条において同じ。）</paren>に<defined>個人データ</defined>を提供する場合には、<chunk>前条第一項各号に掲げる場合</chunk>を除くほか、あらかじめ<chunk><chunk>外国にある第三者</chunk>への提供を認める旨</chunk>の<chunk><defined>本人</defined>の同意</chunk>を得なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、同条の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption><paren>（第三者提供に係る記録の作成等）</paren></ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>個人データ</defined>を第三者<paren>（<chunk>第二条第五項各号に掲げる者</chunk>を除く。以下この条<and-or>及び</and-or>次条において同じ。）</paren>に提供したとき</chunk>は、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、<chunk><chunk>当該<defined>個人データ</defined>を提供した年月日</chunk>、<chunk>当該第三者の氏名<and-or>又は</and-or>名称</chunk>その他の<chunk><defined>個人情報保護委員会規則</defined>で定める事項</chunk></chunk>に関する記録を作成しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk>当該<defined>個人データ</defined>の提供</chunk>が<chunk>第二十三条第一項各号<and-or>又は</and-or>第五項各号のいずれか</chunk><paren>（前条の規定による<defined>個人データ</defined>の提供にあっては、第二十三条第一項各号のいずれか）</paren>に該当する場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、前項の記録を、<chunk>当該記録を作成した日</chunk>から<chunk><defined>個人情報保護委員会規則</defined>で定める期間</chunk>保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption><paren>（第三者提供を受ける際の確認等）</paren></ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>第三者から<defined>個人データ</defined>の提供を受ける</chunk>に際しては、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、次に掲げる事項の確認を行わなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk>当該<defined>個人データ</defined>の提供が<chunk>第二十三条第一項各号<and-or>又は</and-or>第五項各号のいずれか</chunk>に該当する場合</chunk>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>当該第三者の<chunk>氏名<and-or>又は</and-or>名称</chunk><and-or>及び</and-or>住所</chunk><and-or>並びに</and-or><chunk>法人にあっては、その代表者<paren>（<chunk>法人でない団体</chunk>で<chunk>代表者<and-or>又は</and-or>管理人の定めのあるもの</chunk>にあっては、<chunk>その代表者<and-or>又は</and-or>管理人</chunk>）</paren>の氏名</chunk></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該第三者による当該<defined>個人データ</defined>の取得の経緯</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の第三者は、<chunk><defined>個人情報取扱事業者</defined>が同項の規定による確認を行う場合</chunk>において、当該<defined>個人情報取扱事業者</defined>に対して、当該確認に係る事項を偽ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>第一項の規定による確認</chunk>を行ったときは、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、<chunk><chunk>当該<defined>個人データ</defined>の提供を受けた年月日</chunk>、<chunk>当該確認に係る事項</chunk>その他の<chunk><defined>個人情報保護委員会規則</defined>で定める事項</chunk>に関する記録</chunk>を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、前項の記録を、<chunk>当該記録を作成した日</chunk>から<chunk><defined>個人情報保護委員会規則</defined>で定める期間</chunk>保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption><paren>（<defined>保有個人データ</defined>に関する事項の公表等）</paren></ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>保有個人データ</defined>に関し、次に掲げる事項について、<defined>本人</defined>の知り得る状態<paren>（<defined>本人</defined>の求めに応じて遅滞なく回答する場合を含む。）</paren>に置かなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">当該<defined>個人情報取扱事業者</defined>の氏名<and-or>又は</and-or>名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">全ての<defined>保有個人データ</defined>の<defined>利用目的</defined><paren>（第十八条第四項第一号から第三号までに該当する場合を除く。）</paren></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>次項の規定による求め</chunk><and-or>又は</and-or><chunk><chunk>次条第一項</chunk>、<chunk>第二十九条第一項</chunk><and-or>若しくは</and-or><chunk>第三十条第一項<and-or>若しくは</and-or>第三項</chunk>の規定による請求</chunk>に応じる手続<paren>（第三十三条第二項の規定により手数料の額を定めたときは、その手数料の額を含む。）</paren></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前三号に掲げるもののほか、<chunk><chunk><defined>保有個人データ</defined>の適正な取扱いの確保</chunk>に関し必要な事項</chunk>として政令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>本人</defined>から、<chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined>の<defined>利用目的</defined></chunk>の通知を求められたときは、<defined>本人</defined>に対し、遅滞なく、これを通知しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前項の規定により<chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined>の<defined>利用目的</defined></chunk>が明らかな場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第十八条第四項第一号から第三号までに該当する場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>前項の規定</chunk>に基づき<chunk><chunk>求められた<defined>保有個人データ</defined>の<defined>利用目的</defined></chunk>を通知しない旨の決定</chunk>をしたとき</chunk>は、<defined>本人</defined>に対し、遅滞なく、その旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption><paren>（開示）</paren></ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>本人</defined>は、<defined>個人情報取扱事業者</defined>に対し、<chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined></chunk>の開示を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、前項の規定による請求を受けたときは、<defined>本人</defined>に対し、政令で定める方法により、遅滞なく、当該<defined>保有個人データ</defined>を開示しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk>開示することにより次の各号のいずれかに該当する場合</chunk>は、<chunk>その全部<and-or>又は</and-or>一部</chunk>を開示しないことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>本人</defined><and-or>又は</and-or>第三者</chunk>の<chunk>生命、身体、財産その他の権利利益</chunk>を害するおそれがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>当該<defined>個人情報取扱事業者</defined>の業務の適正な実施</chunk>に著しい支障を及ぼすおそれがある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">他の法令に違反することとなる場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk><chunk>第一項の規定による請求に係る<defined>保有個人データ</defined></chunk>の<chunk>全部<and-or>又は</and-or>一部</chunk></chunk>について開示しない旨の決定をしたとき</chunk><and-or>又は</and-or><chunk>当該<defined>保有個人データ</defined>が存在しないとき</chunk>は、<defined>本人</defined>に対し、遅滞なく、その旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>他の法令の規定</chunk>により、<defined>本人</defined>に対し<chunk>第二項本文に規定する方法に相当する方法</chunk>により<chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined>の<chunk>全部<and-or>又は</and-or>一部</chunk></chunk>を開示することとされている場合</chunk>には、<chunk>当該全部<and-or>又は</and-or>一部の<defined>保有個人データ</defined></chunk>については、<chunk>第一項<and-or>及び</and-or>第二項の規定</chunk>は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleCaption><paren>（訂正等）</paren></ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>本人</defined>は、<defined>個人情報取扱事業者</defined>に対し、<chunk><chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined>の内容</chunk>が事実でないとき</chunk>は、<chunk><chunk>当該<defined>保有個人データ</defined>の内容</chunk>の<chunk>訂正、追加<and-or>又は</and-or>削除</chunk><paren>（以下この条において「<defined>訂正等</defined>」という。）</paren></chunk>を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前項の規定による請求</chunk>を受けた場合には、<chunk><chunk>その内容の<defined>訂正等</defined></chunk>に関して<chunk>他の法令の規定</chunk>により特別の手続が定められている場合</chunk>を除き、<chunk><defined>利用目的</defined>の達成に必要な範囲内</chunk>において、遅滞なく<chunk>必要な調査</chunk>を行い、その結果に基づき、<chunk>当該<defined>保有個人データ</defined>の内容の<defined>訂正等</defined></chunk>を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>第一項の規定による請求</chunk>に係る<chunk><defined>保有個人データ</defined>の内容の<chunk>全部<and-or>若しくは</and-or>一部</chunk></chunk>について<chunk><defined>訂正等</defined>を行ったとき</chunk>、<and-or>又は</and-or><chunk><defined>訂正等</defined>を行わない旨の決定をしたとき</chunk>は、<defined>本人</defined>に対し、遅滞なく、その旨<paren>（<defined>訂正等</defined>を行ったときは、その内容を含む。）</paren>を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleCaption><paren>（利用停止等）</paren></ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>本人</defined>は、<defined>個人情報取扱事業者</defined>に対し、<chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined></chunk>が<chunk>第十六条の規定に違反して取り扱われているとき</chunk><and-or>又は</and-or><chunk>第十七条の規定に違反して取得されたものであるとき</chunk>は、<chunk>当該<defined>保有個人データ</defined>の<chunk>利用の停止</chunk><and-or>又は</and-or><chunk>消去</chunk><paren>（以下この条において「<defined>利用停止等</defined>」という。）</paren></chunk>を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>前項の規定による請求</chunk>を受けた場合であって、<chunk>その請求に理由があること</chunk>が判明したとき</chunk>は、<chunk>違反を是正するために必要な限度</chunk>で、遅滞なく、<chunk>当該<defined>保有個人データ</defined>の<defined>利用停止等</defined></chunk>を行わなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk>当該<defined>保有個人データ</defined>の<defined>利用停止等</defined>に多額の費用を要する場合</chunk>その他の<chunk><defined>利用停止等</defined>を行うことが困難な場合</chunk>であって、<chunk><defined>本人</defined>の権利利益を保護するため必要な<chunk>これに代わるべき措置</chunk></chunk>をとるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>本人</defined>は、<defined>個人情報取扱事業者</defined>に対し、<chunk><chunk>当該<defined>本人</defined>が識別される<defined>保有個人データ</defined></chunk>が<chunk>第二十三条第一項<and-or>又は</and-or>第二十四条の規定</chunk>に違反して第三者に提供されているとき</chunk>は、<chunk>当該<defined>保有個人データ</defined>の第三者への提供の停止</chunk>を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>前項の規定による請求</chunk>を受けた場合であって、<chunk>その請求に理由があること</chunk>が判明したとき</chunk>は、遅滞なく、<chunk>当該<defined>保有個人データ</defined>の第三者への提供</chunk>を停止しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk><chunk><chunk>当該<defined>保有個人データ</defined>の第三者への提供の停止</chunk>に多額の費用を要する場合</chunk>その他の<chunk>第三者への提供を停止することが困難な場合</chunk></chunk>であって、<chunk><chunk><defined>本人</defined>の権利利益</chunk>を保護するため必要なこれに代わるべき措置をとるとき</chunk>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk><chunk>第一項の規定による請求に係る<defined>保有個人データ</defined></chunk>の<chunk>全部<and-or>若しくは</and-or>一部</chunk>について<defined>利用停止等</defined>を行ったとき</chunk><and-or>若しくは</and-or><chunk><defined>利用停止等</defined>を行わない旨の決定をしたとき</chunk></chunk>、<and-or>又は</and-or><chunk><chunk><chunk>第三項の規定による請求に係る<defined>保有個人データ</defined></chunk>の<chunk>全部<and-or>若しくは</and-or>一部</chunk>について第三者への提供を停止したとき</chunk><and-or>若しくは</and-or><chunk>第三者への提供を停止しない旨の決定をしたとき</chunk></chunk>は、<defined>本人</defined>に対し、遅滞なく、その旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="31">
+            <ArticleCaption><paren>（理由の説明）</paren></ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>第二十七条第三項、第二十八条第三項、第二十九条第三項<and-or>又は</and-or>前条第五項の規定</chunk>により、<chunk><defined>本人</defined>から<chunk>求められ、<and-or>又は</and-or>請求された</chunk>措置の<chunk>全部<and-or>又は</and-or>一部</chunk></chunk>について、<chunk><chunk>その措置をとらない旨</chunk>を通知する場合<and-or>又は</and-or><chunk>その措置と異なる措置をとる旨</chunk>を通知する場合</chunk>は、<defined>本人</defined>に対し、その理由を説明するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="32">
+            <ArticleCaption><paren>（<defined>開示等の請求等</defined>に応じる手続）</paren></ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><chunk>第二十七条第二項の規定による求め</chunk><and-or>又は</and-or><chunk><chunk>第二十八条第一項</chunk>、<chunk>第二十九条第一項</chunk><and-or>若しくは</and-or><chunk>第三十条第一項<and-or>若しくは</and-or>第三項</chunk>の規定による請求</chunk></chunk><paren>（以下この条<and-or>及び</and-or>第五十三条第一項において「<defined>開示等の請求等</defined>」という。）</paren>に関し、<chunk>政令で定めるところ</chunk>により、<chunk>その求め<and-or>又は</and-or>請求を受け付ける方法</chunk>を定めることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、<defined>本人</defined>は、当該方法に従って、<defined>開示等の請求等</defined>を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>本人</defined>に対し、<defined>開示等の請求等</defined>に関し、<chunk><chunk>その対象となる<defined>保有個人データ</defined></chunk>を特定するに足りる事項の提示</chunk>を求めることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、<defined>個人情報取扱事業者</defined>は、<chunk><defined>本人</defined>が容易かつ的確に<defined>開示等の請求等</defined>をすることができる</chunk>よう、<chunk><chunk>当該<defined>保有個人データ</defined>の特定</chunk>に資する情報の提供</chunk>その他<chunk><defined>本人</defined>の利便を考慮した適切な措置</chunk>をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>開示等の請求等</defined>は、政令で定めるところにより、代理人によってすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前三項の規定に基づき<chunk><defined>開示等の請求等</defined>に応じる手続</chunk>を定める</chunk>に当たっては、<chunk><defined>本人</defined>に過重な負担を課するものとならない</chunk>よう配慮しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="33">
+            <ArticleCaption><paren>（手数料）</paren></ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>第二十七条第二項の規定による<defined>利用目的</defined>の通知を求められたとき</chunk><and-or>又は</and-or><chunk>第二十八条第一項の規定による開示の請求を受けたとき</chunk>は、当該措置の実施に関し、手数料を徴収することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前項の規定により手数料を徴収する場合</chunk>は、<chunk>実費を勘案して合理的であると認められる範囲内</chunk>において、その手数料の額を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="34">
+            <ArticleCaption><paren>（事前の請求）</paren></ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical"><defined>本人</defined>は、<chunk><chunk>第二十八条第一項</chunk>、<chunk>第二十九条第一項</chunk><and-or>又は</and-or><chunk>第三十条第一項<and-or>若しくは</and-or>第三項</chunk>の規定による請求に係る訴え</chunk>を提起しようとするときは、<chunk>その訴えの被告となるべき者</chunk>に対し、あらかじめ、<chunk>当該請求を行い</chunk>、かつ、<chunk>その到達した日から二週間を経過した後</chunk>でなければ、<chunk>その訴えを提起すること</chunk>ができない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk><chunk>当該訴えの被告となるべき者</chunk>がその請求を拒んだとき</chunk>は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の請求は、<chunk>その請求が通常到達すべきであった時</chunk>に、到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の規定は、<chunk><chunk>第二十八条第一項</chunk>、<chunk>第二十九条第一項</chunk><and-or>又は</and-or><chunk>第三十条第一項<and-or>若しくは</and-or>第三項</chunk>の規定による請求に係る仮処分命令の申立て</chunk>について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="35">
+            <ArticleCaption><paren>（<defined>個人情報取扱事業者</defined>による苦情の処理）</paren></ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>個人情報</defined>の取扱いに関する苦情</chunk>の<chunk>適切かつ迅速な処理</chunk>に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk>前項の目的を達成するために必要な体制の整備</chunk>に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　<defined>匿名加工情報取扱事業者</defined>等の義務</SectionTitle>
+          <Article Delete="false" Hide="false" Num="36">
+            <ArticleCaption><paren>（<defined>匿名加工情報</defined>の作成等）</paren></ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>匿名加工情報</defined><paren>（<defined>匿名加工情報データベース等</defined>を構成するものに限る。以下同じ。）</paren>を作成するときは、<chunk><chunk>特定の個人を識別すること</chunk><and-or>及び</and-or><chunk>その作成に用いる<defined>個人情報</defined>を復元すること</chunk>ができないようにするために必要なものとして<defined>個人情報保護委員会規則</defined>で定める基準</chunk>に従い、当該<defined>個人情報</defined>を加工しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>匿名加工情報</defined>を作成したときは、<chunk><chunk>その作成に用いた<defined>個人情報</defined>から削除した<chunk>記述等<and-or>及び</and-or><defined>個人識別符号</defined></chunk></chunk><and-or>並びに</and-or><chunk>前項の規定により行った加工の方法に関する情報</chunk>の漏えいを防止するために必要なものとして<defined>個人情報保護委員会規則</defined>で定める基準</chunk>に従い、<chunk>これらの情報の安全管理のための措置</chunk>を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>匿名加工情報</defined>を作成したときは、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、<chunk>当該<defined>匿名加工情報</defined>に含まれる個人に関する情報の項目</chunk>を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>匿名加工情報</defined>を作成して当該<defined>匿名加工情報</defined>を第三者に提供するとき</chunk>は、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、あらかじめ、<chunk><chunk><chunk>第三者に提供される<defined>匿名加工情報</defined></chunk>に含まれる個人に関する情報の項目</chunk><and-or>及び</and-or><chunk>その提供の方法</chunk></chunk>について公表するとともに、当該第三者に対して、<chunk>当該提供に係る情報が<defined>匿名加工情報</defined>である旨</chunk>を明示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<chunk><defined>匿名加工情報</defined>を作成して自ら当該<defined>匿名加工情報</defined>を取り扱う</chunk>に当たっては、<chunk><chunk>当該<defined>匿名加工情報</defined>の作成に用いられた<defined>個人情報</defined></chunk>に係る<defined>本人</defined>を識別するため</chunk>に、当該<defined>匿名加工情報</defined>を他の情報と照合してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報取扱事業者</defined>は、<defined>匿名加工情報</defined>を作成したときは、<chunk><chunk>当該<defined>匿名加工情報</defined>の安全管理</chunk>のために<chunk>必要かつ適切な</chunk>措置</chunk>、<chunk>当該<defined>匿名加工情報</defined>の<chunk>作成その他の取扱い</chunk>に関する<chunk>苦情の処理</chunk>その他の<chunk>当該<defined>匿名加工情報</defined>の適正な取扱い</chunk>を確保するために必要な措置</chunk>を自ら講じ、かつ、<chunk>当該措置の内容を公表する</chunk>よう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="37">
+            <ArticleCaption><paren>（<defined>匿名加工情報</defined>の提供）</paren></ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>匿名加工情報取扱事業者</defined>は、<chunk><defined>匿名加工情報</defined><paren>（自ら<defined>個人情報</defined>を加工して作成したものを除く。以下この節において同じ。）</paren>を第三者に提供するとき</chunk>は、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、あらかじめ、<chunk>第三者に提供される<defined>匿名加工情報</defined>に含まれる個人に関する情報の項目</chunk><and-or>及び</and-or><chunk>その提供の方法</chunk>について公表するとともに、当該第三者に対して、<chunk>当該提供に係る情報が<defined>匿名加工情報</defined>である旨</chunk>を明示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="38">
+            <ArticleCaption><paren>（識別行為の禁止）</paren></ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>匿名加工情報取扱事業者</defined>は、<defined>匿名加工情報</defined>を取り扱うに当たっては、<chunk><chunk>当該<defined>匿名加工情報</defined>の作成に用いられた<defined>個人情報</defined>に係る<defined>本人</defined></chunk>を識別するため</chunk>に、<chunk><chunk>当該<defined>個人情報</defined>から削除された記述等<and-or>若しくは</and-or><defined>個人識別符号</defined></chunk><and-or>若しくは</and-or><chunk><chunk>第三十六条第一項</chunk>、<chunk>行政機関の保有する<defined>個人情報</defined>の保護に関する法律<paren>（平成十五年法律第五十八号）</paren>第四十四条の十第一項<paren>（同条第二項において準用する場合を含む。）</paren></chunk><and-or>若しくは</and-or><chunk>独立行政法人等の保有する<defined>個人情報</defined>の保護に関する法律第四十四条の十第一項<paren>（同条第二項において準用する場合を含む。）</paren></chunk>の規定により行われた加工の方法に関する情報</chunk>を取得し</chunk>、<and-or>又は</and-or><chunk>当該<defined>匿名加工情報</defined>を他の情報と照合し</chunk>てはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="39">
+            <ArticleCaption><paren>（安全管理措置等）</paren></ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>匿名加工情報取扱事業者</defined>は、<chunk><chunk><defined>匿名加工情報</defined>の安全管理</chunk>のために必要かつ適切な措置</chunk>、<chunk><defined>匿名加工情報</defined>の取扱いに関する苦情の処理</chunk>その他の<chunk><defined>匿名加工情報</defined>の適正な取扱いを確保するために必要な措置</chunk>を自ら講じ、かつ、当該措置の内容を公表するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <Article Delete="false" Hide="false" Num="40">
+            <ArticleCaption><paren>（報告<and-or>及び</and-or>立入検査）</paren></ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前二節<and-or>及び</and-or>この節の規定の施行に必要な限度</chunk>において、<chunk><chunk><defined>個人情報取扱事業者</defined><and-or>又は</and-or><defined>匿名加工情報取扱事業者</defined><paren>（以下「<defined>個人情報取扱事業者等</defined>」という。）</paren></chunk>に対し、<chunk><defined>個人情報</defined><and-or>又は</and-or><defined>匿名加工情報</defined><paren>（以下「<defined>個人情報等</defined>」という。）</paren>の取扱い</chunk>に関し、<chunk>必要な報告<and-or>若しくは</and-or>資料の提出</chunk>を求め</chunk>、<and-or>又は</and-or><chunk><chunk>その職員</chunk>に、<chunk>当該<defined>個人情報取扱事業者等</defined>の事務所</chunk>その他<chunk>必要な場所</chunk>に立ち入らせ、<chunk><defined>個人情報等</defined>の取扱い</chunk>に関し質問させ、<and-or>若しくは</and-or><chunk>帳簿書類その他の物件</chunk>を検査させる</chunk>ことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>前項の規定により立入検査をする職員</chunk>は、<chunk>その身分を示す証明書</chunk>を携帯し、<chunk>関係人の請求があったとき</chunk>は、これを提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>第一項の規定による立入検査の権限</chunk>は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="41">
+            <ArticleCaption><paren>（指導<and-or>及び</and-or>助言）</paren></ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前二節の規定の施行に必要な限度</chunk>において、<defined>個人情報取扱事業者等</defined>に対し、<chunk><defined>個人情報等</defined>の取扱い</chunk>に関し<chunk>必要な指導<and-or>及び</and-or>助言</chunk>をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="42">
+            <ArticleCaption><paren>（勧告<and-or>及び</and-or>命令）</paren></ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk><defined>個人情報取扱事業者</defined>が<chunk><chunk>第十六条から第十八条まで</chunk>、<chunk>第二十条から第二十二条まで</chunk>、<chunk>第二十三条<paren>（第四項を除く。）</paren></chunk>、<chunk>第二十四条</chunk>、<chunk>第二十五条</chunk>、<chunk>第二十六条<paren>（第二項を除く。）</paren></chunk>、<chunk>第二十七条</chunk>、<chunk>第二十八条<paren>（第一項を除く。）</paren></chunk>、<chunk>第二十九条第二項<and-or>若しくは</and-or>第三項</chunk>、<chunk>第三十条第二項、第四項<and-or>若しくは</and-or>第五項</chunk>、<chunk>第三十三条第二項</chunk><and-or>若しくは</and-or><chunk>第三十六条<paren>（第六項を除く。）</paren></chunk>の規定</chunk>に違反した場合</chunk><and-or>又は</and-or><chunk><defined>匿名加工情報取扱事業者</defined>が<chunk>第三十七条<and-or>若しくは</and-or>第三十八条の規定</chunk>に違反した場合</chunk>において<chunk>個人の権利利益を保護するため必要がある</chunk>と認めるときは、当該<defined>個人情報取扱事業者等</defined>に対し、<chunk><chunk>当該違反行為の中止</chunk>その他<chunk>違反を是正するために必要な措置</chunk>をとるべき旨</chunk>を勧告することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk><chunk>前項の規定による勧告を受けた<defined>個人情報取扱事業者等</defined></chunk>が<chunk>正当な理由</chunk>がなくて<chunk>その勧告に係る措置</chunk>をとらなかった場合</chunk>において<chunk><chunk>個人の重大な権利利益の侵害</chunk>が切迫していると認めるとき</chunk>は、当該<defined>個人情報取扱事業者等</defined>に対し、<chunk>その勧告に係る措置をとるべきこと</chunk>を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前二項の規定</chunk>にかかわらず、<chunk><defined>個人情報取扱事業者</defined>が<chunk><chunk>第十六条</chunk>、<chunk>第十七条</chunk>、<chunk>第二十条から第二十二条まで</chunk>、<chunk>第二十三条第一項</chunk>、<chunk>第二十四条</chunk><and-or>若しくは</and-or><chunk>第三十六条第一項、第二項<and-or>若しくは</and-or>第五項</chunk>の規定</chunk>に違反した場合</chunk><and-or>又は</and-or><chunk><defined>匿名加工情報取扱事業者</defined>が<chunk>第三十八条の規定</chunk>に違反した場合</chunk>において<chunk><chunk>個人の重大な権利利益を害する事実</chunk>があるため<chunk>緊急に措置をとる必要</chunk>があると認めるとき</chunk>は、当該<defined>個人情報取扱事業者等</defined>に対し、<chunk><chunk>当該違反行為の中止</chunk>その他<chunk>違反を是正するために必要な措置</chunk>をとるべきこと</chunk>を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="43">
+            <ArticleCaption><paren>（<defined>個人情報保護委員会</defined>の権限の行使の制限）</paren></ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前三条の規定</chunk>により<defined>個人情報取扱事業者等</defined>に対し<chunk><chunk>報告<and-or>若しくは</and-or>資料の提出の要求</chunk>、立入検査、指導、助言、勧告<and-or>又は</and-or>命令</chunk>を行うに当たっては、<chunk>表現の自由、学問の自由、信教の自由<and-or>及び</and-or>政治活動の自由</chunk>を妨げてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>前項の規定の趣旨</chunk>に照らし、<defined>個人情報保護委員会</defined>は、<chunk><defined>個人情報取扱事業者等</defined>が<chunk>第七十六条第一項各号に掲げる者<paren>（それぞれ当該各号に定める目的で<defined>個人情報等</defined>を取り扱う場合に限る。）</paren></chunk>に対して<defined>個人情報等</defined>を提供する行為</chunk>については、その権限を行使しないものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="44">
+            <ArticleCaption><paren>（権限の委任）</paren></ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk><chunk>緊急かつ重点的に<chunk><defined>個人情報等</defined>の適正な取扱いの確保</chunk>を図る必要があること</chunk>その他の<chunk>政令で定める事情</chunk>があるため、<defined>個人情報取扱事業者等</defined>に対し、<chunk>第四十二条の規定による勧告<and-or>又は</and-or>命令</chunk>を効果的に行う上で必要があると認めるとき</chunk>は、<chunk>政令で定めるところ</chunk>により、<chunk>第四十条第一項の規定による権限</chunk>を事業所管大臣に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">事業所管大臣は、<chunk>前項の規定により委任された権限</chunk>を行使したときは、<chunk>政令で定めるところ</chunk>により、その結果について<defined>個人情報保護委員会</defined>に報告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">事業所管大臣は、<chunk>政令で定めるところ</chunk>により、<chunk><chunk>第一項の規定により委任された権限</chunk><and-or>及び</and-or><chunk>前項の規定による権限</chunk></chunk>について、<chunk>その全部<and-or>又は</and-or>一部</chunk>を<chunk><chunk>内閣府設置法<paren>（平成十一年法律第八十九号）</paren>第四十三条の地方支分部局</chunk>その他の<chunk>政令で定める<chunk>部局<and-or>又は</and-or>機関</chunk></chunk>の長</chunk>に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">内閣総理大臣は、<chunk><chunk>第一項の規定により委任された権限</chunk><and-or>及び</and-or><chunk>第二項の規定による権限</chunk></chunk><paren>（金融庁の所掌に係るものに限り、政令で定めるものを除く。）</paren>を金融庁長官に委任する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">金融庁長官は、<chunk>政令で定めるところに</chunk>より、<chunk>前項の規定により委任された権限</chunk>について、その一部を証券取引等監視委員会に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">金融庁長官は、<chunk>政令で定めるところ</chunk>により、<chunk>第四項の規定により委任された権限<paren>（前項の規定により証券取引等監視委員会に委任されたものを除く。）</paren></chunk>の一部を<chunk>財務局長<and-or>又は</and-or>財務支局長</chunk>に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="7" OldStyle="false">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">証券取引等監視委員会は、<chunk>政令で定めるところ</chunk>により、<chunk>第五項の規定により委任された権限</chunk>の一部を<chunk>財務局長<and-or>又は</and-or>財務支局長</chunk>に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="8" OldStyle="false">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>前項の規定により<chunk>財務局長<and-or>又は</and-or>財務支局長</chunk>に委任された権限</chunk>に係る事務に関しては、証券取引等監視委員会が<chunk>財務局長<and-or>又は</and-or>財務支局長</chunk>を指揮監督する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="9" OldStyle="false">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第五項の場合において、<chunk>証券取引等監視委員会が行う<chunk><chunk>報告<and-or>又は</and-or>資料の提出</chunk>の要求</chunk><paren>（第七項の規定により<chunk>財務局長<and-or>又は</and-or>財務支局長</chunk>が行う場合を含む。）</paren></chunk>についての審査請求は、証券取引等監視委員会に対してのみ行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="45">
+            <ArticleCaption><paren>（事業所管大臣の請求）</paren></ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">事業所管大臣は、<chunk><defined>個人情報取扱事業者等</defined>に<chunk>前二節の規定に違反する行為</chunk>があると認めるとき</chunk>その他<chunk><defined>個人情報取扱事業者等</defined>による<chunk><defined>個人情報等</defined>の適正な取扱い</chunk>を確保するために必要があると認めるとき</chunk>は、<defined>個人情報保護委員会</defined>に対し、<chunk>この法律の規定に従い適当な措置をとるべきこと</chunk>を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="46">
+            <ArticleCaption><paren>（事業所管大臣）</paren></ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">この節の規定における事業所管大臣は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者等</defined>が行う<defined>個人情報等</defined>の取扱い</chunk>のうち<chunk>雇用管理に関するもの</chunk>については、<chunk>厚生労働大臣<paren>（船員の雇用管理に関するものについては、国土交通大臣）</paren></chunk><and-or>及び</and-or><chunk><chunk>当該<defined>個人情報取扱事業者等</defined>が行う事業</chunk>を所管する<chunk>大臣、国家公安委員会<and-or>又は</and-or>カジノ管理委員会</chunk><paren>（次号において「<defined>大臣等</defined>」という。）</paren></chunk></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者等</defined>が行う<defined>個人情報等</defined>の取扱い</chunk>のうち<chunk><chunk>前号に掲げるもの</chunk>以外のもの</chunk>については、<chunk><chunk>当該<defined>個人情報取扱事業者等</defined>が行う事業</chunk>を所管する<defined>大臣等</defined></chunk></Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　民間団体による<defined>個人情報</defined>の保護の推進</SectionTitle>
+          <Article Delete="false" Hide="false" Num="47">
+            <ArticleCaption><paren>（認定）</paren></ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者等</defined>の<defined>個人情報等</defined>の<chunk>適正な取扱い</chunk>の確保</chunk>を目的として<chunk>次に掲げる業務</chunk>を行おうとする<chunk>法人<paren>（<chunk>法人でない団体</chunk>で<chunk>代表者<and-or>又は</and-or>管理人</chunk>の定めのあるものを含む。<chunk>次条第三号ロ</chunk>において同じ。）</paren></chunk>は、<chunk><defined>個人情報保護委員会</defined>の認定</chunk>を受けることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>業務の対象となる<defined>個人情報取扱事業者等</defined><paren>（以下「<defined>対象事業者</defined>」という。）</paren></chunk>の<chunk><chunk><defined>個人情報等</defined>の取扱い</chunk>に関する第五十二条の規定による苦情の処理</chunk></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><defined>個人情報等</defined>の適正な取扱いの確保に寄与する事項</chunk>についての<defined>対象事業者</defined>に対する<chunk>情報の提供</chunk></Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>前二号に掲げるもの</chunk>のほか、<chunk><defined>対象事業者</defined>の<defined>個人情報等</defined>の適正な取扱いの確保</chunk>に関し必要な業務</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>前項の認定を受けようとする者</chunk>は、<chunk>政令で定めるところ</chunk>により、<defined>個人情報保護委員会</defined>に申請しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>第一項の認定をしたとき</chunk>は、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="48">
+            <ArticleCaption><paren>（欠格条項）</paren></ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk>次の各号のいずれかに該当する者</chunk>は、<chunk>前条第一項の認定</chunk>を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>この法律の規定</chunk>により刑に処せられ、<chunk>その執行を終わり、<and-or>又は</and-or>執行を受けることがなくなった日</chunk>から二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>第五十八条第一項の規定</chunk>により認定を取り消され、<chunk>その取消しの日</chunk>から二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>その業務を行う役員<paren>（<chunk>法人でない団体</chunk>で<chunk>代表者<and-or>又は</and-or>管理人</chunk>の定めのあるものの<chunk>代表者<and-or>又は</and-or>管理人</chunk>を含む。以下この条において同じ。）</paren></chunk>のうちに、<chunk>次のいずれかに該当する者</chunk>があるもの</Sentence>
+                </ItemSentence>
+                <Subitem1 Delete="false" Hide="false" Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><chunk>禁錮以上の刑に処せられ、<and-or>又は</and-or><chunk>この法律の規定</chunk>により刑に処せられ</chunk>、<chunk>その執行を終わり、<and-or>又は</and-or>執行を受けることがなくなった日</chunk>から二年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Delete="false" Hide="false" Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence WritingMode="vertical"><chunk>第五十八条第一項の規定により認定を取り消された法人</chunk>において、<chunk><chunk><chunk>その取消しの日</chunk>前三十日以内</chunk>にその役員であった者</chunk>で<chunk><chunk>その取消しの日</chunk>から二年を経過しない者</chunk></Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="49">
+            <ArticleCaption><paren>（認定の基準）</paren></ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>第四十七条第一項の認定の申請</chunk>が<chunk>次の各号のいずれにも適合している</chunk>と認めるときでなければ、その認定をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk><chunk>第四十七条第一項各号に掲げる業務</chunk>を適正かつ確実に行う</chunk>に必要な業務の実施の方法</chunk>が定められているものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk>第四十七条第一項各号に掲げる業務</chunk>を適正かつ確実に行うに足りる<chunk><chunk>知識<and-or>及び</and-or>能力</chunk><and-or>並びに</and-or>経理的基礎</chunk>を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical"><chunk><chunk><chunk>第四十七条第一項各号に掲げる業務</chunk>以外の業務</chunk>を行っている場合</chunk>には、<chunk><chunk>その業務を行うこと</chunk>によって<chunk>同項各号に掲げる業務</chunk>が不公正になるおそれがないもの</chunk>であること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="50">
+            <ArticleCaption><paren>（廃止の届出）</paren></ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>第四十七条第一項の認定</chunk>を受けた者<paren>（以下「<defined>認定個人情報保護団体</defined>」という。）</paren></chunk>は、<chunk>その認定に係る業務<paren>（以下「<defined>認定業務</defined>」という。）</paren></chunk>を廃止しようとするときは、<chunk>政令で定めるところ</chunk>により、あらかじめ、その旨を<defined>個人情報保護委員会</defined>に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前項の規定による届出</chunk>があったときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="51">
+            <ArticleCaption><paren>（<defined>対象事業者</defined>）</paren></ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk>当該<defined>認定個人情報保護団体</defined>の構成員である<defined>個人情報取扱事業者等</defined></chunk><and-or>又は</and-or><chunk><defined>認定業務</defined>の対象となることについて同意を得た<defined>個人情報取扱事業者等</defined></chunk>を<defined>対象事業者</defined>としなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk><defined>対象事業者</defined>の<chunk>氏名<and-or>又は</and-or>名称</chunk></chunk>を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="52">
+            <ArticleCaption><paren>（苦情の処理）</paren></ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk><defined>本人</defined>その他の関係者</chunk>から<chunk><chunk><defined>対象事業者</defined>の<defined>個人情報等</defined>の取扱い</chunk>に関する苦情</chunk>について<chunk>解決の申出</chunk>があったときは、<chunk>その相談に応じ、申出人に必要な助言をし、その苦情に係る事情を調査する</chunk>とともに、当該<defined>対象事業者</defined>に対し、<chunk>その苦情の内容</chunk>を通知して<chunk>その迅速な解決</chunk>を求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk><chunk>前項の申出に係る苦情</chunk>の解決について必要があると認めるとき</chunk>は、当該<defined>対象事業者</defined>に対し、<chunk>文書<and-or>若しくは</and-or>口頭による説明</chunk>を求め、<and-or>又は</and-or><chunk>資料の提出</chunk>を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>対象事業者</defined>は、<chunk><defined>認定個人情報保護団体</defined>から<chunk>前項の規定による求め</chunk>があったとき</chunk>は、正当な理由がないのに、これを拒んではならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="53">
+            <ArticleCaption><paren>（<defined>個人情報保護指針</defined>）</paren></ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk><defined>対象事業者</defined>の<defined>個人情報等</defined>の適正な取扱いの確保</chunk>のために、<chunk><defined>個人情報</defined>に係る<chunk><defined>利用目的</defined>の特定</chunk>、<chunk>安全管理のための措置</chunk>、<chunk><defined>開示等の請求等</defined>に応じる手続</chunk>その他の事項</chunk><and-or>又は</and-or><chunk><defined>匿名加工情報</defined>に係る<chunk>作成の方法</chunk>、<chunk>その情報の安全管理のための措置</chunk>その他の事項</chunk>に関し、<chunk><chunk>消費者の意見を代表する者</chunk>その他の<chunk>関係者</chunk></chunk>の意見を聴いて、<chunk>この法律の規定の趣旨に沿った指針<paren>（以下「<defined>個人情報保護指針</defined>」という。）</paren></chunk>を作成するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk>前項の規定により<defined>個人情報保護指針</defined>を作成したとき</chunk>は、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、遅滞なく、当該<defined>個人情報保護指針</defined>を<defined>個人情報保護委員会</defined>に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更したときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>前項の規定による<defined>個人情報保護指針</defined>の届出があったとき</chunk>は、<chunk><defined>個人情報保護委員会規則</defined>で定めるところ</chunk>により、当該<defined>個人情報保護指針</defined>を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk>前項の規定により<defined>個人情報保護指針</defined>が公表されたとき</chunk>は、<defined>対象事業者</defined>に対し、<chunk><chunk>当該<defined>個人情報保護指針</defined>を遵守させる</chunk>ため必要な<chunk>指導、勧告その他の措置</chunk></chunk>をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="54">
+            <ArticleCaption><paren>（目的外利用の禁止）</paren></ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>は、<chunk><defined>認定業務</defined>の実施に際して知り得た情報</chunk>を<chunk><defined>認定業務</defined>の用に供する目的以外</chunk>に利用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="55">
+            <ArticleCaption><paren>（名称の使用制限）</paren></ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><chunk><defined>認定個人情報保護団体</defined>でない者</chunk>は、<chunk><defined>認定個人情報保護団体</defined>という名称</chunk><and-or>又は</and-or><chunk>これに紛らわしい名称</chunk>を用いてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="56">
+            <ArticleCaption><paren>（報告の徴収）</paren></ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>この節の規定の施行に必要な限度</chunk>において、<defined>認定個人情報保護団体</defined>に対し、<defined>認定業務</defined>に関し報告をさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="57">
+            <ArticleCaption><paren>（命令）</paren></ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk>この節の規定の施行に必要な限度</chunk>において、<defined>認定個人情報保護団体</defined>に対し、<chunk><chunk><defined>認定業務</defined>の実施の方法の改善</chunk>、<chunk><defined>個人情報保護指針</defined>の変更</chunk>その他の<chunk>必要な措置</chunk>をとるべき旨</chunk>を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="58">
+            <ArticleCaption><paren>（認定の取消し）</paren></ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、<chunk><defined>認定個人情報保護団体</defined>が次の各号のいずれかに該当するとき</chunk>は、その認定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四十八条第一号<and-or>又は</and-or>第三号に該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第四十九条各号のいずれかに適合しなくなったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">第五十四条の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">前条の命令に従わないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">不正の手段により第四十七条第一項の認定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、前項の規定により認定を取り消したときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="5">
+        <ChapterTitle>第五章　<defined>個人情報保護委員会</defined></ChapterTitle>
+        <Article Delete="false" Hide="false" Num="59">
+          <ArticleCaption><paren>（設置）</paren></ArticleCaption>
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>内閣府設置法第四十九条第三項の規定</chunk>に基づいて、<defined>個人情報保護委員会</defined><paren>（以下「<defined>委員会</defined>」という。）</paren>を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、内閣総理大臣の所轄に属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="60">
+          <ArticleCaption><paren>（任務）</paren></ArticleCaption>
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk><chunk><defined>個人情報</defined>の適正かつ効果的な活用</chunk>が<chunk>新たな産業の創出</chunk><and-or>並びに</and-or><chunk><chunk>活力ある経済社会</chunk><and-or>及び</and-or><chunk>豊かな国民生活</chunk>の実現</chunk>に資するものであること</chunk>その他の<chunk><defined>個人情報</defined>の有用性</chunk>に配慮しつつ、<chunk>個人の権利利益</chunk>を保護するため、<chunk><chunk><defined>個人情報</defined>の適正な取扱い</chunk>の確保を図ること</chunk><paren>（<chunk><defined>個人番号利用事務等実施者</defined><paren>（<chunk>行政手続における特定の個人を識別するための番号の利用等に関する法律<paren>（平成二十五年法律第二十七号。以下「<defined>番号利用法</defined>」という。）</paren>第十二条</chunk>に規定する<defined>個人番号利用事務等実施者</defined>をいう。）</paren>に対する<chunk>指導<and-or>及び</and-or>助言その他の措置</chunk>を講ずること</chunk>を含む。）</paren>を任務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="61">
+          <ArticleCaption><paren>（所掌事務）</paren></ArticleCaption>
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk>前条の任務</chunk>を達成するため、<chunk>次に掲げる事務</chunk>をつかさどる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>基本方針</defined>の策定<and-or>及び</and-or>推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk><defined>個人情報取扱事業者</defined>における<defined>個人情報</defined>の取扱い</chunk><and-or>並びに</and-or><chunk><chunk><defined>個人情報取扱事業者</defined><and-or>及び</and-or><defined>匿名加工情報取扱事業者</defined></chunk>における<defined>匿名加工情報</defined>の取扱い</chunk>に関する監督</chunk>、<chunk><chunk><chunk>行政機関の保有する<defined>個人情報</defined>の保護に関する法律第二条第一項</chunk>に規定する行政機関</chunk>における<chunk>同条第九項に規定する<defined>行政機関非識別加工情報</defined><paren>（同条第十項に規定する<defined>行政機関非識別加工情報</defined>ファイルを構成するものに限る。）</paren></chunk>の取扱いに関する監視</chunk>、<chunk><chunk><chunk>独立行政法人等における独立行政法人等の保有する<defined>個人情報</defined>の保護に関する法律第二条第九項</chunk>に規定する<defined>独立行政法人等非識別加工情報</defined><paren>（同条第十項に規定する<defined>独立行政法人等非識別加工情報</defined>ファイルを構成するものに限る。）</paren></chunk>の取扱いに関する監督</chunk><and-or>並びに</and-or><chunk><chunk><defined>個人情報</defined><and-or>及び</and-or><defined>匿名加工情報</defined></chunk>の取扱いに関する<chunk>苦情の申出</chunk>についての<chunk><chunk>必要なあっせん</chunk><and-or>及び</and-or><chunk>その処理を行う事業者への協力</chunk></chunk></chunk>に関すること<paren>（第四号に掲げるものを除く。）</paren>。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>認定個人情報保護団体</defined>に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><defined>特定個人情報</defined><paren>（<defined>番号利用法</defined>第二条第八項に規定する<defined>特定個人情報</defined>をいう。第六十三条第四項において同じ。）</paren>の取扱い</chunk>に関する<chunk>監視<and-or>又は</and-or>監督</chunk><and-or>並びに</and-or><chunk><chunk>苦情の申出</chunk>についての<chunk><chunk>必要なあっせん</chunk><and-or>及び</and-or><chunk>その処理を行う事業者への協力</chunk></chunk></chunk>に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>特定個人情報保護評価</defined><paren>（<defined>番号利用法</defined>第二十七条第一項に規定する<defined>特定個人情報保護評価</defined>をいう。）</paren>に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>個人情報</defined>の<chunk><chunk>保護</chunk><and-or>及び</and-or><chunk>適正かつ効果的な活用</chunk></chunk>についての<chunk>広報<and-or>及び</and-or>啓発</chunk>に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>前各号に掲げる事務</chunk>を行うために必要な<chunk>調査<and-or>及び</and-or>研究</chunk>に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">所掌事務に係る国際協力に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>前各号に掲げるもの</chunk>のほか、法律<paren>（法律に基づく命令を含む。）</paren>に基づき<defined>委員会</defined>に属させられた事務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="62">
+          <ArticleCaption><paren>（職権行使の独立性）</paren></ArticleCaption>
+          <ArticleTitle>第六十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>の委員長<and-or>及び</and-or>委員は、独立してその職権を行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="63">
+          <ArticleCaption><paren>（組織等）</paren></ArticleCaption>
+          <ArticleTitle>第六十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、委員長<and-or>及び</and-or>委員八人をもって組織する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員のうち四人は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員長<and-or>及び</and-or>委員は、<chunk>人格が高潔で識見の高い者</chunk>のうちから、両議院の同意を得て、内閣総理大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長<and-or>及び</and-or>委員</chunk>には、<chunk><defined>個人情報</defined>の<chunk>保護<and-or>及び</and-or>適正かつ効果的な活用</chunk>に関する学識経験のある者</chunk>、<chunk><chunk>消費者の保護</chunk>に関して<chunk>十分な知識と経験</chunk>を有する者</chunk>、<chunk>情報処理技術に関する学識経験のある者</chunk>、<chunk><chunk><defined>特定個人情報</defined>が利用される行政分野</chunk>に関する学識経験のある者</chunk>、<chunk><chunk>民間企業の実務</chunk>に関して<chunk>十分な知識と経験を</chunk>有する者</chunk><and-or>並びに</and-or><chunk>連合組織<paren>（<chunk>地方自治法<paren>（昭和二十二年法律第六十七号）</paren>第二百六十三条の三第一項の連合組織</chunk>で<chunk>同項の規定による届出をしたもの</chunk>をいう。）</paren>の推薦する者</chunk>が含まれるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="64">
+          <ArticleCaption><paren>（任期等）</paren></ArticleCaption>
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">委員長<and-or>及び</and-or>委員の任期は、五年とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、<chunk>補欠の<chunk>委員長<and-or>又は</and-or>委員</chunk></chunk>の任期は、前任者の残任期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員長<and-or>及び</and-or>委員は、再任されることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長<and-or>及び</and-or>委員の任期が満了したとき</chunk>は、当該委員長<and-or>及び</and-or>委員は、後任者が任命されるまで引き続きその職務を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk><chunk>委員長<and-or>又は</and-or>委員の任期が満了し</chunk>、<and-or>又は</and-or><chunk>欠員を生じた</chunk>場合</chunk>において、<chunk><chunk>国会の閉会<and-or>又は</and-or>衆議院の解散</chunk>のために<chunk>両議院の同意</chunk>を得ることができないとき</chunk>は、内閣総理大臣は、<chunk>前条第三項の規定</chunk>にかかわらず、<chunk>同項に定める資格を有する者</chunk>のうちから、<chunk>委員長<and-or>又は</and-or>委員</chunk>を任命することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合においては、<chunk>任命後最初の国会</chunk>において<chunk>両議院の事後の承認</chunk>を得なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、<chunk>両議院の事後の承認</chunk>が得られないときは、内閣総理大臣は、直ちに、<chunk>その委員長<and-or>又は</and-or>委員</chunk>を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="65">
+          <ArticleCaption><paren>（身分保障）</paren></ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長<and-or>及び</and-or>委員</chunk>は、<chunk>次の各号のいずれかに該当する場合</chunk>を除いては、在任中、その意に反して罷免されることがない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">破産手続開始の決定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>この法律<and-or>又は</and-or><defined>番号利用法</defined></chunk>の規定に違反して刑に処せられたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">禁錮以上の刑に処せられたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><defined>委員会</defined>により、<chunk>心身の故障のため職務を執行することができない</chunk>と認められたとき、<and-or>又は</and-or><chunk><chunk>職務上の義務違反</chunk>その他<chunk><chunk>委員長<and-or>若しくは</and-or>委員</chunk>たるに適しない非行</chunk>がある</chunk>と認められたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="66">
+          <ArticleCaption><paren>（罷免）</paren></ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣は、<chunk>委員長<and-or>又は</and-or>委員が前条各号のいずれかに該当するとき</chunk>は、<chunk>その委員長<and-or>又は</and-or>委員</chunk>を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="67">
+          <ArticleCaption><paren>（委員長）</paren></ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員長は、<defined>委員会</defined>の会務を総理し、<defined>委員会</defined>を代表する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、あらかじめ<chunk>常勤の委員</chunk>のうちから、<chunk><chunk>委員長に事故がある場合</chunk>に委員長を代理する者</chunk>を定めておかなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="68">
+          <ArticleCaption><paren>（会議）</paren></ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>の会議は、委員長が招集する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk>委員長<and-or>及び</and-or>四人以上の委員</chunk>の出席がなければ、<chunk>会議を開き、議決をすること</chunk>ができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>の議事は、出席者の過半数でこれを決し、可否同数のときは、委員長の決するところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第六十五条第四号の規定による認定</chunk>をするには、前項の規定にかかわらず、<chunk><defined>本人</defined>を除く全員の一致</chunk>がなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長に事故がある場合</chunk>の<chunk>第二項の規定の適用</chunk>については、<chunk>前条第二項に規定する<chunk>委員長を代理する者</chunk></chunk>は、委員長とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="69">
+          <ArticleCaption><paren>（専門委員）</paren></ArticleCaption>
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>に、専門の事項を調査させるため、専門委員を置くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専門委員は、<defined>委員会</defined>の申出に基づいて内閣総理大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専門委員は、<chunk>当該専門の事項に関する調査</chunk>が終了したときは、解任されるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専門委員は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="70">
+          <ArticleCaption><paren>（事務局）</paren></ArticleCaption>
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>の事務を処理させるため、<defined>委員会</defined>に事務局を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">事務局に、<chunk>事務局長その他の職員</chunk>を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">事務局長は、委員長の命を受けて、局務を掌理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="71">
+          <ArticleCaption><paren>（政治運動等の禁止）</paren></ArticleCaption>
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長<and-or>及び</and-or>委員</chunk>は、在任中、<chunk><chunk>政党その他の政治団体</chunk>の役員となり</chunk>、<and-or>又は</and-or><chunk>積極的に政治運動をし</chunk>てはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>委員長<and-or>及び</and-or>常勤の委員</chunk>は、在任中、<chunk>内閣総理大臣の許可のある場合</chunk>を除くほか、<chunk>報酬を得て他の職務に従事し</chunk>、<and-or>又は</and-or><chunk>営利事業を営み、その他<chunk>金銭上の利益を目的とする業務</chunk>を行って</chunk>はならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="72">
+          <ArticleCaption><paren>（秘密保持義務）</paren></ArticleCaption>
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical"><chunk>委員長、委員、専門委員<and-or>及び</and-or>事務局の職員</chunk>は、<chunk>職務上知ることのできた秘密</chunk>を<chunk>漏らし、<and-or>又は</and-or>盗用し</chunk>てはならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">その職務を退いた後も、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="73">
+          <ArticleCaption><paren>（給与）</paren></ArticleCaption>
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">委員長<and-or>及び</and-or>委員の給与は、別に法律で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="74">
+          <ArticleCaption><paren>（規則の制定）</paren></ArticleCaption>
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk>その所掌事務</chunk>について、<chunk><chunk>法律<and-or>若しくは</and-or>政令</chunk>を実施するため</chunk>、<and-or>又は</and-or><chunk><chunk>法律<and-or>若しくは</and-or>政令</chunk>の特別の委任に基づいて</chunk>、<defined>個人情報保護委員会規則</defined>を制定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="75">
+          <ArticleCaption><paren>（適用範囲）</paren></ArticleCaption>
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第十五条、第十六条、第十八条<paren>（第二項を除く。）</paren>、第十九条から第二十五条まで、第二十七条から第三十六条まで、第四十一条、第四十二条第一項、第四十三条<and-or>及び</and-or>次条の規定</chunk>は、<chunk><chunk>国内にある者</chunk>に対する<chunk>物品<and-or>又は</and-or>役務の提供</chunk>に関連して<chunk>その者を<defined>本人</defined>とする<defined>個人情報</defined></chunk>を取得した<defined>個人情報取扱事業者</defined></chunk>が、外国において<chunk>当該<defined>個人情報</defined><and-or>又は</and-or>当該<defined>個人情報</defined>を用いて作成した<defined>匿名加工情報</defined></chunk>を取り扱う場合についても、適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="76">
+          <ArticleCaption><paren>（適用除外）</paren></ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者等</defined>のうち次の各号に掲げる者</chunk>については、<chunk>その<defined>個人情報等</defined>を取り扱う目的の全部<and-or>又は</and-or>一部</chunk>がそれぞれ<chunk>当該各号に規定する目的</chunk>であるときは、第四章の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">放送機関、新聞社、通信社その他の報道機関<paren>（報道を業として行う個人を含む。）</paren></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">報道の用に供する目的</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">著述を業として行う者</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">著述の用に供する目的</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical"><chunk>大学その他の学術研究を目的とする<chunk>機関<and-or>若しくは</and-or>団体</chunk></chunk><and-or>又は</and-or><chunk>それらに属する者</chunk></Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">学術研究の用に供する目的</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">宗教団体</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">宗教活動<paren>（これに付随する活動を含む。）</paren>の用に供する目的</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="false" Num="1">
+                  <Sentence WritingMode="vertical">政治団体</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">政治活動<paren>（これに付随する活動を含む。）</paren>の用に供する目的</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>前項第一号に規定する「報道」</chunk>とは、<chunk>不特定かつ多数の者</chunk>に対して客観的事実を事実として知らせること<paren>（これに基づいて<chunk>意見<and-or>又は</and-or>見解</chunk>を述べることを含む。）</paren>をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第一項各号に掲げる<defined>個人情報取扱事業者等</defined></chunk>は、<chunk><chunk><defined>個人データ</defined><and-or>又は</and-or><defined>匿名加工情報</defined></chunk>の安全管理のために必要かつ適切な措置</chunk>、<chunk><defined>個人情報等</defined>の取扱いに関する<chunk>苦情の処理</chunk>その他の<defined>個人情報等</defined>の<chunk>適正な取扱い</chunk>を確保するために必要な措置</chunk>を自ら講じ、かつ、当該措置の内容を公表するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="77">
+          <ArticleCaption><paren>（地方公共団体が処理する事務）</paren></ArticleCaption>
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>この法律に規定する<defined>委員会</defined>の権限</chunk><and-or>及び</and-or><chunk><chunk>第四十四条第一項<and-or>又は</and-or>第四項の規定</chunk>により<chunk>事業所管大臣<and-or>又は</and-or>金融庁長官</chunk>に委任された権限</chunk>に属する事務は、<chunk>政令で定めるところ</chunk>により、<chunk>地方公共団体の長その他の執行機関</chunk>が行うこととすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="78">
+          <ArticleCaption><paren>（<defined>外国執行当局</defined>への情報提供）</paren></ArticleCaption>
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk><chunk>この法律に相当する外国の法令</chunk>を執行する外国の当局<paren>（以下この条において「<defined>外国執行当局</defined>」という。）</paren></chunk>に対し、<chunk>その職務<paren>（<chunk>この法律に規定する<defined>委員会</defined>の職務に相当するもの</chunk>に限る。次項において同じ。）</paren>の遂行に資すると認める情報</chunk>の提供を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>前項の規定による情報の提供</chunk>については、<chunk>当該情報が<chunk>当該<defined>外国執行当局</defined>の職務の遂行</chunk>以外に使用されず</chunk>、かつ、<chunk><chunk>次項の規定による同意</chunk>がなければ<chunk>外国の刑事事件の捜査<paren>（その対象たる犯罪事実が特定された後のものに限る。）</paren><and-or>又は</and-or>審判<paren>（同項において「<defined>捜査等</defined>」という。）</paren></chunk>に使用されない</chunk>よう<chunk>適切な措置</chunk>がとられなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk><defined>外国執行当局</defined>からの要請</chunk>があったときは、<chunk>次の各号のいずれかに該当する場合</chunk>を除き、<chunk><chunk>第一項の規定により提供した情報</chunk>を<chunk>当該要請に係る外国の刑事事件の<defined>捜査等</defined></chunk>に使用すること</chunk>について同意をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>当該要請に係る刑事事件の<defined>捜査等</defined>の対象とされている犯罪</chunk>が政治犯罪であるとき</chunk>、<and-or>又は</and-or><chunk>当該要請が<chunk>政治犯罪について<defined>捜査等</defined>を行う目的</chunk>で行われたものと認められるとき</chunk>。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>当該要請に係る刑事事件の<defined>捜査等</defined>の対象とされている犯罪</chunk>に係る行為が日本国内において行われたとした場合</chunk>において、その行為が日本国の法令によれば罪に当たるものでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>日本国が行う同種の要請に応ずる旨</chunk>の<chunk>要請国の保証</chunk>がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、<chunk>前項の同意をする場合</chunk>においては、あらかじめ、<chunk>同項第一号<and-or>及び</and-or>第二号に該当しないこと</chunk>について<chunk>法務大臣の確認</chunk>を、<chunk>同項第三号に該当しないこと</chunk>について<chunk>外務大臣の確認</chunk>を、それぞれ受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="79">
+          <ArticleCaption><paren>（国会に対する報告）</paren></ArticleCaption>
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><defined>委員会</defined>は、毎年、<chunk>内閣総理大臣を経由して国会に対し所掌事務の処理状況を報告する</chunk>とともに、<chunk>その概要を公表し</chunk>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="80">
+          <ArticleCaption><paren>（連絡<and-or>及び</and-or>協力）</paren></ArticleCaption>
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>内閣総理大臣</chunk><and-or>及び</and-or><chunk>この法律の施行に関係する行政機関<paren>（法律の規定に基づき内閣に置かれる機関<paren>（内閣府を除く。）</paren><and-or>及び</and-or>内閣の所轄の下に置かれる機関、内閣府、宮内庁、内閣府設置法第四十九条第一項<and-or>及び</and-or>第二項に規定する機関<and-or>並びに</and-or>国家行政組織法<paren>（昭和二十三年法律第百二十号）</paren>第三条第二項に規定する機関をいう。）</paren>の長</chunk>は、<chunk>相互に緊密に連絡し、<and-or>及び</and-or>協力し</chunk>なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="81">
+          <ArticleCaption><paren>（政令への委任）</paren></ArticleCaption>
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="82">
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第七十二条の規定に違反して秘密を漏らし、<and-or>又は</and-or>盗用した者</chunk>は、<chunk>二年以下の懲役<and-or>又は</and-or>百万円以下の罰金</chunk>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="83">
+          <ArticleTitle>第八十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第四十二条第二項<and-or>又は</and-or>第三項の規定による命令に違反した場合</chunk>には、<chunk>当該違反行為をした者</chunk>は、<chunk>一年以下の懲役<and-or>又は</and-or>百万円以下の罰金</chunk>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="84">
+          <ArticleTitle>第八十四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk><defined>個人情報取扱事業者</defined><paren>（その者が法人<paren>（<chunk>法人でない団体</chunk>で<chunk>代表者<and-or>又は</and-or>管理人</chunk>の定めのあるものを含む。第八十七条第一項において同じ。）</paren>である場合にあっては、<chunk>その役員、代表者<and-or>又は</and-or>管理人</chunk>）</paren><and-or>若しくは</and-or><chunk>その従業者</chunk></chunk><and-or>又は</and-or><chunk>これらであった者</chunk>が、<chunk>その業務に関して取り扱った<defined>個人情報データベース等</defined><paren>（<chunk>その全部<and-or>又は</and-or>一部</chunk>を<chunk>複製し、<and-or>又は</and-or>加工した</chunk>ものを含む。）</paren></chunk>を<chunk><chunk>自己<and-or>若しくは</and-or>第三者</chunk>の不正な利益を図る目的</chunk>で<chunk>提供し、<and-or>又は</and-or>盗用した</chunk>ときは、<chunk>一年以下の懲役<and-or>又は</and-or>五十万円以下の罰金</chunk>に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="85">
+          <ArticleTitle>第八十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence><chunk>次の各号のいずれかに該当する場合</chunk>には、<chunk>当該違反行為をした者</chunk>は、<chunk>五十万円以下の罰金</chunk>に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk><chunk>第四十条第一項の規定による報告<and-or>若しくは</and-or>資料の提出</chunk>をせず、<and-or>若しくは</and-or><chunk>虚偽の報告</chunk>をし、<and-or>若しくは</and-or><chunk>虚偽の資料</chunk>を提出し</chunk>、<and-or>又は</and-or><chunk><chunk>当該職員の質問</chunk>に対して答弁をせず、<and-or>若しくは</and-or><chunk>虚偽の答弁</chunk>をし、<and-or>若しくは</and-or>検査を<chunk>拒み、妨げ、<and-or>若しくは</and-or>忌避した</chunk></chunk>とき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical"><chunk>第五十六条の規定による報告</chunk>をせず、<and-or>又は</and-or><chunk>虚偽の報告</chunk>をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="86">
+          <ArticleTitle>第八十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk>第八十二条<and-or>及び</and-or>第八十四条の規定</chunk>は、<chunk>日本国外においてこれらの条の罪を犯した者</chunk>にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="87">
+          <ArticleTitle>第八十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk><chunk>法人の代表者</chunk><and-or>又は</and-or><chunk><chunk>法人<and-or>若しくは</and-or>人</chunk>の<chunk>代理人、使用人その他の従業者</chunk></chunk></chunk>が、<chunk>その<chunk>法人<and-or>又は</and-or>人</chunk>の業務</chunk>に関して、<chunk>次の各号に掲げる違反行為</chunk>をしたときは、<chunk>行為者を罰する</chunk>ほか、<chunk>その法人に対して<chunk>当該各号に定める罰金刑</chunk>を</chunk>、<chunk>その人に対して<chunk>各本条の罰金刑</chunk>を</chunk>科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第八十三条<and-or>及び</and-or>第八十四条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>一億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>第八十五条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>同条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical"><chunk><chunk>法人でない団体</chunk>について<chunk>前項の規定の適用</chunk>がある場合</chunk>には、<chunk>その代表者<and-or>又は</and-or>管理人</chunk>が、<chunk>その訴訟行為</chunk>につき<chunk>法人でない団体</chunk>を代表するほか、<chunk>法人を<chunk>被告人<and-or>又は</and-or>被疑者</chunk>とする場合の刑事訴訟に関する法律の規定</chunk>を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="88">
+          <ArticleTitle>第八十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">次の各号のいずれかに該当する者は、十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第二十六条第二項<and-or>又は</and-or>第五十五条の規定に違反した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">第五十条第一項の規定による届出をせず、<and-or>又は</and-or>虚偽の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四章から第六章まで<and-or>及び</and-or>附則第二条から第六条までの規定は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption><paren>（<defined>本人</defined>の同意に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前になされた<defined>本人</defined>の<defined>個人情報</defined>の取扱いに関する同意がある場合において、その同意が第十五条第一項の規定により特定される<defined>利用目的</defined>以外の目的で<defined>個人情報</defined>を取り扱うことを認める旨の同意に相当するものであるときは、第十六条第一項<and-or>又は</and-or>第二項の同意があったものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前になされた<defined>本人</defined>の<defined>個人情報</defined>の取扱いに関する同意がある場合において、その同意が第二十三条第一項の規定による<defined>個人データ</defined>の第三者への提供を認める旨の同意に相当するものであるときは、同項の同意があったものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption><paren>（通知に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二十三条第二項の規定により<defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置かなければならない事項に相当する事項について、この法律の施行前に、<defined>本人</defined>に通知されているときは、当該通知は、同項の規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第二十三条第五項第三号の規定により<defined>本人</defined>に通知し、<and-or>又は</and-or><defined>本人</defined>が容易に知り得る状態に置かなければならない事項に相当する事項について、この法律の施行前に、<defined>本人</defined>に通知されているときは、当該通知は、同号の規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption><paren>（名称の使用制限に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に<defined>認定個人情報保護団体</defined>という名称<and-or>又は</and-or>これに紛らわしい名称を用いている者については、第四十五条の規定は、同条の規定の施行後六月間は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月三〇日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、行政機関の保有する<defined>個人情報</defined>の保護に関する法律の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption><paren>（その他の経過措置の政令への委任）</paren></ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年七月一六日法律第一一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、地方独立行政法人法<paren>（平成十五年法律第百十八号）</paren>の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><defined>個人情報</defined>の保護に関する法律の施行の日<and-or>又は</and-or>この法律の施行の日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption><paren>（その他の経過措置の政令への委任）</paren></ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年六月五日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、消費者庁<and-or>及び</and-or>消費者委員会設置法<paren>（平成二十一年法律第四十八号）</paren>の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">附則第九条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">この法律の公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption><paren>（処分等に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前にこの法律による改正前のそれぞれの法律<paren>（これに基づく命令を含む。以下「旧法令」という。）</paren>の規定によりされた免許、許可、認可、承認、指定その他の処分<and-or>又は</and-or>通知その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、この法律による改正後のそれぞれの法律<paren>（これに基づく命令を含む。以下「新法令」という。）</paren>の相当規定によりされた免許、許可、認可、承認、指定その他の処分<and-or>又は</and-or>通知その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に旧法令の規定によりされている免許の申請、届出その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定によりされた免許の申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前に旧法令の規定により報告、届出、提出その他の手続をしなければならない事項で、この法律の施行日前にその手続がされていないものについては、法令に別段の定めがあるもののほか、この法律の施行後は、これを、新法令の相当規定によりその手続がされていないものとみなして、新法令の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption><paren>（命令の効力に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">旧法令の規定により発せられた内閣府設置法第七条第三項の内閣府令<and-or>又は</and-or>国家行政組織法第十二条第一項の省令は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定に基づいて発せられた相当の内閣府設置法第七条第三項の内閣府令<and-or>又は</and-or>国家行政組織法第十二条第一項の省令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleCaption><paren>（罰則の適用に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行前にした行為<and-or>及び</and-or>この法律の附則においてなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption><paren>（政令への委任）</paren></ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置<paren>（罰則に関する経過措置を含む。）</paren>は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月九日法律第六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">附則第七条第二項、第十条<and-or>及び</and-or>第十二条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一条<and-or>及び</and-or>第四条<and-or>並びに</and-or>附則第五条、第六条、第七条第一項<and-or>及び</and-or>第三項、第八条、第九条、第十三条、第二十二条、第二十五条から第二十七条まで、第三十条、第三十二条、第三十四条<and-or>並びに</and-or>第三十七条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成二十八年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">次条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三条<and-or>及び</and-or>第六条<paren>（<defined>番号利用法</defined>第十九条第一号<and-or>及び</and-or>別表第一の改正規定を除く。）</paren><and-or>並びに</and-or>附則第十九条の三、第二十四条、第二十九条の三<and-or>及び</and-or>第三十六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical"><defined>番号利用法</defined>附則第一条第五号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption><paren>（通知等に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の<defined>個人情報</defined>の保護に関する法律<paren>（以下「新個人情報保護法」という。）</paren>第二十三条第二項の規定により<defined>個人データ</defined>を第三者に提供しようとする者は、この法律の施行の日<paren>（以下「施行日」という。）</paren>前においても、<defined>個人情報保護委員会規則</defined>で定めるところにより、同項第五号に掲げる事項に相当する事項について<defined>本人</defined>に通知するとともに、同項各号に掲げる事項に相当する事項について<defined>個人情報保護委員会</defined>に届け出ることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該通知<and-or>及び</and-or>届出は、施行日以後は、同項の規定による通知<and-or>及び</and-or>届出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption><paren>（外国にある第三者への提供に係る<defined>本人</defined>の同意に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前になされた<defined>本人</defined>の<defined>個人情報</defined>の取扱いに関する同意がある場合において、その同意が新個人情報保護法第二十四条の規定による<defined>個人データ</defined>の外国にある第三者への提供を認める旨の同意に相当するものであるときは、同条の同意があったものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption><paren>（主務大臣がした処分等に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前に第二条の規定による改正前の<defined>個人情報</defined>の保護に関する法律<paren>（以下「旧個人情報保護法」という。）</paren><and-or>又は</and-or>これに基づく命令の規定により旧個人情報保護法第三十六条<and-or>又は</and-or>第四十九条に規定する主務大臣<paren>（以下この条において単に「主務大臣」という。）</paren>がした勧告、命令その他の処分<and-or>又は</and-or>通知その他の行為は、施行日以後は、新個人情報保護法<and-or>又は</and-or>これに基づく命令の相当規定に基づいて、<defined>個人情報保護委員会</defined>がした勧告、命令その他の処分<and-or>又は</and-or>通知その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律の施行の際現に旧個人情報保護法<and-or>又は</and-or>これに基づく命令の規定により主務大臣に対してされている申請、届出その他の行為は、施行日以後は、新個人情報保護法<and-or>又は</and-or>これに基づく命令の相当規定に基づいて、<defined>個人情報保護委員会</defined>に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前に旧個人情報保護法<and-or>又は</and-or>これに基づく命令の規定により主務大臣に対して届出その他の手続をしなければならない事項で、施行日前にその手続がされていないものについては、施行日以後は、これを、新個人情報保護法<and-or>又は</and-or>これに基づく命令の相当規定により<defined>個人情報保護委員会</defined>に対してその手続をしなければならないとされた事項についてその手続がされていないものとみなして、当該相当規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption><paren>（委員長<and-or>又は</and-or>委員の任命等に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第二号に掲げる規定の施行の際現に従前の特定個人情報保護委員会の委員長<and-or>又は</and-or>委員である者は、それぞれ第二号施行日に、第一条の規定による改正後の個人情報の保護に関する法律<paren>（以下この条において「第二号新個人情報保護法」という。）</paren>第五十四条第三項の規定により、<defined>個人情報保護委員会</defined>の委員長<and-or>又は</and-or>委員として任命されたものとみなす。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、その任命されたものとみなされる者の任期は、第二号新個人情報保護法第五十五条第一項の規定にかかわらず、第二号施行日における従前の特定個人情報保護委員会の委員長<and-or>又は</and-or>委員としてのそれぞれの任期の残任期間と同一の期間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第一条第二号に掲げる規定の施行に伴い新たに任命されることとなる<defined>個人情報保護委員会</defined>の委員については、第二号新個人情報保護法第五十四条第三項に規定する委員の任命のために必要な行為は、第二号施行日前においても行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">附則第一条第二号に掲げる規定の施行の際現に従前の特定個人情報保護委員会の事務局の職員である者は、別に辞令を発せられない限り、第二号施行日に、同一の勤務条件をもって、<defined>個人情報保護委員会</defined>の事務局の相当の職員となるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleCaption><paren>（罰則の適用に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律<paren>（附則第一条第二号に掲げる規定にあっては、当該規定）</paren>の施行前にした行為<and-or>及び</and-or>前条の規定によりなお従前の例によることとされる場合における第二号施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleCaption><paren>（政令への委任）</paren></ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption><paren>（事業者等が講ずべき措置の適切かつ有効な実施を図るための指針の策定に当たっての配慮）</paren></ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical"><defined>個人情報保護委員会</defined>は、新個人情報保護法第八条に規定する事業者等が講ずべき措置の適切かつ有効な実施を図るための指針を策定するに当たっては、この法律の施行により旧個人情報保護法第二条第三項第五号に掲げる者が新たに<defined>個人情報取扱事業者</defined>となることに鑑み、特に小規模の事業者の事業活動が円滑に行われるよう配慮するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="12">
+        <ArticleCaption><paren>（検討）</paren></ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、施行日までに、新個人情報保護法の規定の趣旨を踏まえ、行政機関の保有する個人情報の保護に関する法律第二条第一項に規定する行政機関が保有する同条第二項に規定する個人情報<and-or>及び</and-or>独立行政法人等の保有する個人情報の保護に関する法律<paren>（平成十五年法律第五十九号）</paren>第二条第一項に規定する独立行政法人等が保有する同条第二項に規定する個人情報<paren>（以下この条において「行政機関等保有個人情報」と総称する。）</paren>の取扱いに関する規制の在り方について、<defined>匿名加工情報</defined><paren>（新個人情報保護法第二条第九項に規定する<defined>匿名加工情報</defined>をいい、行政機関等<defined>匿名加工情報</defined><paren>（行政機関等保有個人情報を加工して得られる<defined>匿名加工情報</defined>をいう。以下この項において同じ。）</paren>を含む。）</paren>の円滑かつ迅速な利用を促進する観点から、行政機関等<defined>匿名加工情報</defined>の取扱いに対する指導、助言等を統一的かつ横断的に<defined>個人情報保護委員会</defined>に行わせることを含めて検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、この法律の施行後三年を目途として、個人情報の保護に関する<defined>基本方針</defined>の策定<and-or>及び</and-or>推進その他の<defined>個人情報保護委員会</defined>の所掌事務について、これを実効的に行うために必要な人的体制の整備、財源の確保その他の措置の状況を勘案し、その改善について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、前項に定める事項のほか、この法律の施行後三年を目途として、個人情報の保護に関する国際的動向、情報通信技術の進展、それに伴う個人情報を活用した新たな産業の創出<and-or>及び</and-or>発展の状況等を勘案し、新個人情報保護法の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、附則第一条第六号に掲げる規定の施行後三年を目途として、預金保険法<paren>（昭和四十六年法律第三十四号）</paren>第二条第一項に規定する金融機関が同条第三項に規定する預金者等から、<and-or>又は</and-or>農水産業協同組合貯金保険法<paren>（昭和四十八年法律第五十三号）</paren>第二条第一項に規定する農水産業協同組合が同条第三項に規定する貯金者等から、適切に個人番号の提供を受ける方策<and-or>及び</and-or>第七条の規定による改正後の<defined>番号利用法</defined>の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて、国民の理解を得つつ、所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、国の行政機関等が保有する個人情報の安全を確保する上でサイバーセキュリティ<paren>（サイバーセキュリティ基本法<paren>（平成二十六年法律第百四号）</paren>第二条に規定するサイバーセキュリティをいう。）</paren>に関する対策の的確な策定<and-or>及び</and-or>実施が重要であることに鑑み、国の行政機関等における同法第十三条に規定する基準に基づく対策の策定<and-or>及び</and-or>実施に係る体制の整備等について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、新個人情報保護法の施行の状況、第一項の措置の実施の状況その他の状況を踏まえ、新個人情報保護法第二条第一項に規定する個人情報<and-or>及び</and-or>行政機関等保有個人情報の保護に関する規定を集約し、一体的に規定することを含め、個人情報の保護に関する法制の在り方について検討するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年五月二七日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月二四日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月二七日法律第八〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第十一章、第二百三十五条、第二百三十九条第一項<paren>（第四十四号に係る部分に限る。）</paren>、第二百四十三条第一項<paren>（第四号<paren>（第二百三十九条第一項第四十四号に係る部分に限る。）</paren>に係る部分に限る。）</paren><and-or>及び</and-or>第三項<and-or>並びに</and-or>第二百五十一条<and-or>並びに</and-or>附則第五条、第七条から第十条まで、第十二条、第十四条<paren>（特定複合観光施設区域の整備の推進に関する法律第十九条第二項の改正規定に限る。）</paren>、第十五条<and-or>及び</and-or>第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption><paren>（施行期日）</paren></ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第九条から第十一条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中個人情報の保護に関する法律第八十四条を削り、同法第八十三条を同法第八十四条とし、同法第八十二条の次に一条を加える改正規定、同法第八十五条の改正規定、同法第八十六条の改正規定<and-or>及び</and-or>同法第八十七条の改正規定、第二条中行政手続における特定の個人を識別するための番号の利用等に関する法律第五十七条の改正規定<and-or>並びに</and-or>第三条中医療分野の研究開発に資するための匿名加工医療情報に関する法律第四十六条の改正規定、同法第四十六条の次に一条を加える改正規定、同法第四十八条の改正規定<and-or>及び</and-or>同法第四十九条の改正規定<and-or>並びに</and-or>附則第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>次条<and-or>及び</and-or>附則第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption><paren>（罰則の適用に関する経過措置）</paren></ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律<paren>（附則第一条第二号に掲げる規定にあっては、当該規定）</paren>の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption><paren>（政令への委任）</paren></ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption><paren>（検討）</paren></ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>政府は、この法律の施行後三年ごとに、個人情報の保護に関する国際的動向、情報通信技術の進展、それに伴う個人情報を活用した新たな産業の創出<and-or>及び</and-or>発展の状況等を勘案し、新個人情報保護法の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
